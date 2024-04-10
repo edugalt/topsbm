@@ -1,0 +1,310 @@
+source	target
+Adenosine triphosphate	X-ray crystallography
+Adenosine triphosphate	NDPCP
+Apoptosis	Sydney Brenner
+Apoptosis	Bcl-2-associated X protein
+Apoptosis	Bcl-2 homologous antagonist killer
+Apoptosis	Bcl-2-associated X protein
+Apoptosis	Bcl-2 homologous antagonist killer
+Apoptosis	Gene expression
+Apoptosis	The Proteolysis Map
+Apoptosis	The Proteolysis Map
+Apoptosis	The Proteolysis Map
+Cell nucleus	Ligand (biochemistry)
+Cell nucleus	Apoptosis
+Discrete Fourier transform	Fourier analysis
+Fourier analysis	Discrete Fourier transform
+Fourier analysis	X-ray crystallography
+Fourier analysis	Discrete Fourier transform
+Glycolysis	Adenosine triphosphate
+Glycolysis	Adenosine triphosphate
+Glycolysis	Adenosine triphosphate
+Glycolysis	Adenosine triphosphate
+Glycolysis	Adenosine triphosphate
+Glycolysis	Adenosine triphosphate
+Glycolysis	Adenosine triphosphate
+Glycolysis	Adenosine triphosphate
+Glycolysis	Adenosine triphosphate
+Lie group	Erlangen program
+Lie group	Heisenberg group
+Lie group	Poincaré group
+Lie group	Lie bracket of vector fields
+Lie group	Lie algebra extension
+Lie group	Virasoro algebra
+Lie group	Haar measure
+Lie group	Symmetry in quantum mechanics
+Group (mathematics)	Lie group
+Group (mathematics)	Poincaré group
+Group (mathematics)	Molecular symmetry
+Group (mathematics)	Erlangen program
+Group (mathematics)	Lie group
+Group (mathematics)	Haar measure
+Group (mathematics)	Poincaré group
+Metastability	Adenosine triphosphate
+Metastability	Abelian sandpile model
+Messenger RNA	Transcription (biology)
+Messenger RNA	Translation (biology)
+Messenger RNA	Sydney Brenner
+P53	N-terminus
+P53	Apoptosis
+P53	DNA-binding domain
+P53	Mdm2
+P53	Cell nucleus
+P53	Mdm2
+P53	Cyclin-dependent kinase 7
+P53	Mdm2
+Quantum field theory	Josephson effect
+Quantum field theory	Klein–Gordon equation
+Quantum field theory	N = 4 supersymmetric Yang–Mills theory
+Quantum field theory	Poincaré group
+Quantum field theory	Wightman axioms
+Skeleton	Exoskeleton
+Symplectic manifold	Differential form
+Transcription factor	Gene expression
+Transcription factor	DNA-binding domain
+Transcription factor	Cell nucleus
+Transcription factor	Cell nucleus
+Transcription factor	Ligand (biochemistry)
+Transcription factor	DNA-binding domain
+Transcription factor	Homeobox
+Transcription factor	Ankyrin repeat
+X-ray crystallography	Direct methods (crystallography)
+X-ray crystallography	Multipole density formalism
+Haar measure	Lie group
+Homeobox	N-terminus
+Homeobox	Transcription factor
+Homeobox	Skeleton
+Central dogma of molecular biology	Messenger RNA
+Central dogma of molecular biology	Alternative splicing
+Central dogma of molecular biology	Alternative splicing
+Winding number	Group (mathematics)
+Macromolecule	Central dogma of molecular biology
+Macromolecule	Translation (biology)
+Allosteric regulation	Adenosine triphosphate
+Allosteric regulation	Adenosine triphosphate
+Allosteric regulation	Ligand (biochemistry)
+Second law of thermodynamics	H-theorem
+Second law of thermodynamics	H-theorem
+Second law of thermodynamics	Thermodynamic equilibrium
+Exoskeleton	Metastability
+T-symmetry	Microscopic reversibility
+Gene expression	Small nuclear RNA
+Gene expression	Transcription (biology)
+Gene expression	Translation (biology)
+Gene expression	Transcription (biology)
+Gene expression	X-inactivation
+Gene expression	Cyclin
+Protein production	X-ray crystallography
+Protein production	Gene expression
+Transcription (biology)	Cell nucleus
+Transcription (biology)	Archaeal transcription factor B
+Transcription (biology)	Translation (biology)
+Alternative splicing	Translation (biology)
+Klein–Gordon equation	Lorentz covariance
+Klein–Gordon equation	Poincaré group
+Klein–Gordon equation	Quantum field theory
+Klein–Gordon equation	Quartic interaction
+Differential form	Lie group
+Differential form	Maurer–Cartan form
+Poincaré group	Group (mathematics)
+Poincaré group	Lie group
+Poincaré group	Lie group
+Poincaré group	Lie group
+Poincaré group	Erlangen program
+Poincaré group	Quantum field theory
+Poincaré group	Symmetry in quantum mechanics
+Poincaré group	Center of mass (relativistic)
+Erlangen program	Lie group
+Erlangen program	Lie group
+Translation (biology)	Protein structure prediction
+Translation (biology)	Protein production
+Thermodynamic equilibrium	Flow (mathematics)
+Aharonov–Bohm effect	Differential form
+Aharonov–Bohm effect	Winding number
+Magnetic flux quantum	Josephson effect
+Magnetic flux quantum	Josephson effect
+Magnetic flux quantum	Macroscopic quantum phenomena
+Magnetic flux quantum	Topological defect
+Renormalization	Quantum field theory
+Renormalization group	Functional renormalization group
+Renormalization group	Critical phenomena
+Wightman axioms	Poincaré group
+Wightman axioms	Poincaré group
+Wightman axioms	Poincaré group
+Wightman axioms	Poincaré group
+Wightman axioms	Local quantum field theory
+Protein structure prediction	X-ray crystallography
+Protein structure prediction	X-ray crystallography
+Protein structure prediction	Macromolecular docking
+Protein structure prediction	Modelling biological systems
+Lie algebroid	Lie bracket of vector fields
+Lie algebroid	Lie group
+Local quantum field theory	Poincaré group
+Local quantum field theory	Poincaré group
+Virasoro algebra	Conformal field theory
+Topological defect	Wess–Zumino–Witten model
+Topological defect	Lie group
+Topological defect	Quantum topology
+Topological defect	Topological quantum field theory
+Conformal field theory	Virasoro algebra
+Conformal field theory	Wightman axioms
+Conformal field theory	N = 4 supersymmetric Yang–Mills theory
+Grassmannian	Lie group
+Grassmannian	Plücker embedding
+Grassmannian	Haar measure
+Critical phenomena	Conformal field theory
+Sydney Brenner	Leslie Orgel
+H-theorem	Second law of thermodynamics
+Topological quantum field theory	Haar measure
+Topological quantum field theory	Lie group
+Topological quantum field theory	Quantum topology
+Topological quantum field theory	Topological defect
+Josephson effect	Pi Josephson junction
+Josephson effect	Macroscopic quantum phenomena
+Josephson effect	Macroscopic quantum self-trapping
+Heisenberg group	Lie group
+Heisenberg group	Fourier analysis
+Heisenberg group	Haar measure
+Analytical mechanics	Hamilton–Jacobi equation
+Analytical mechanics	T-symmetry
+Analytical mechanics	Hamilton–Jacobi equation
+Analytical mechanics	Hamilton's principle
+Space group	Crystallographic point group
+Agonist	Functional selectivity
+Leslie Orgel	Sydney Brenner
+Leslie Orgel	Isotopic labeling
+Lorentz covariance	Electromagnetic four-potential
+Lorentz covariance	Poincaré group
+Lorentz covariance	Very special relativity
+N-terminus	TopFIND
+Affine connection	Lie group
+Affine connection	Lie bracket of vector fields
+Affine connection	Lie bracket of vector fields
+Cyclin	N-terminus
+Crystallographic point group	Molecular symmetry
+Crystallographic point group	Space group
+Electromagnetic four-potential	Lorentz covariance
+Hamilton–Jacobi equation	Hamilton's principle
+Maurer–Cartan form	Lie group
+Maurer–Cartan form	Lie bracket of vector fields
+Plücker embedding	Grassmannian
+Modelling biological systems	Transcription (biology)
+Modelling biological systems	Translation (biology)
+Modelling biological systems	Protein structure prediction
+Quartic interaction	Klein–Gordon equation
+Quartic interaction	Renormalization
+X-inactivation	DNA damage (naturally occurring)
+Wess–Zumino–Witten model	Lie group
+Wess–Zumino–Witten model	Lie group
+Wess–Zumino–Witten model	Affine connection
+Wess–Zumino–Witten model	Virasoro algebra
+Isotopic labeling	Glycolysis
+Functional selectivity	Ligand (biochemistry)
+Moyal product	Moyal bracket
+Moyal product	Heisenberg group
+Gauge fixing	Aharonov–Bohm effect
+Gauge fixing	Klein–Gordon equation
+Ligand (biochemistry)	Agonist
+Ligand (biochemistry)	Allosteric regulation
+Computational genomics	Intelligent Systems for Molecular Biology
+Macromolecular docking	X-ray crystallography
+Macromolecular docking	X-ray crystallography
+Flow (mathematics)	Lie group
+DNA-binding domain	Translation (biology)
+Frölicher–Nijenhuis bracket	Lie bracket of vector fields
+Frölicher–Nijenhuis bracket	Lie bracket of vector fields
+Microscopic reversibility	T-symmetry
+Microscopic reversibility	H-theorem
+Continuous symmetry	Lie group
+Continuous symmetry	Motion (geometry)
+Mdm2	P53
+Small nuclear RNA	Cell nucleus
+Hamilton's principle	Analytical mechanics
+Hamilton's principle	Hamilton–Jacobi equation
+Ankyrin repeat	N-terminus
+Bcl-2-associated X protein	Apoptosis
+Bcl-2-associated X protein	Bcl-2 homologous antagonist killer
+Bcl-2-associated X protein	Apoptosis
+Pi Josephson junction	Josephson effect
+Bcl-2 homologous antagonist killer	P53
+Moyal bracket	Moyal product
+Moyal bracket	Lie algebra extension
+Moyal bracket	Moyal product
+Moyal bracket	Dirac bracket
+Moyal bracket	Hamilton–Jacobi equation
+Very special relativity	T-symmetry
+Intelligent Systems for Molecular Biology	European Conference on Computational Biology
+Intelligent Systems for Molecular Biology	European Conference on Computational Biology
+Intelligent Systems for Molecular Biology	Sydney Brenner
+Intelligent Systems for Molecular Biology	Bioinformatics Open Source Conference
+Intelligent Systems for Molecular Biology	European Conference on Computational Biology
+Intelligent Systems for Molecular Biology	European Conference on Computational Biology
+Lie bracket of vector fields	Flow (mathematics)
+Lie bracket of vector fields	Lie algebroid
+Lie bracket of vector fields	Lie group
+Lie bracket of vector fields	Frölicher–Nijenhuis bracket
+Molecular symmetry	X-ray crystallography
+Molecular symmetry	Crystallographic point group
+Molecular symmetry	Symmetry of diatomic molecules
+Molecular symmetry	Symmetry in quantum mechanics
+Direct methods (crystallography)	X-ray crystallography
+Dirac bracket	Symplectic manifold
+Dirac bracket	Gauge fixing
+Cyclin-dependent kinase 7	P53
+NDPCP	Translation (biology)
+The Proteolysis Map	Computational genomics
+Abelian sandpile model	Lie group
+Macroscopic quantum self-trapping	Josephson effect
+Functional renormalization group	Renormalization group
+Functional renormalization group	Renormalization
+Functional renormalization group	Critical phenomena
+Quantum topology	Topological quantum field theory
+TopFIND	Computational genomics
+European Conference on Computational Biology	Intelligent Systems for Molecular Biology
+European Conference on Computational Biology	Intelligent Systems for Molecular Biology
+Group contraction	Lie group
+Group contraction	Poincaré group
+Group contraction	Poincaré group
+Group contraction	Moyal bracket
+Macroscopic quantum phenomena	Magnetic flux quantum
+Macroscopic quantum phenomena	Topological defect
+Macroscopic quantum phenomena	Josephson effect
+Motion (geometry)	Lie group
+Motion (geometry)	Erlangen program
+N = 4 supersymmetric Yang–Mills theory	Grassmannian
+N = 4 supersymmetric Yang–Mills theory	6D (2,0) superconformal field theory
+DNA damage (naturally occurring)	Adenosine triphosphate
+DNA damage (naturally occurring)	Adenosine triphosphate
+Archaeal transcription factor B	Transcription factor
+Archaeal transcription factor B	Transcription (biology)
+Symmetry in quantum mechanics	Continuous symmetry
+Symmetry in quantum mechanics	Lie group
+Symmetry in quantum mechanics	Poincaré group
+Symmetry in quantum mechanics	Lie group
+Symmetry in quantum mechanics	Translation operator (quantum mechanics)
+Symmetry in quantum mechanics	Time translation symmetry
+Symmetry in quantum mechanics	Poincaré group
+Symmetry in quantum mechanics	T-symmetry
+Symmetry in quantum mechanics	Renormalization group
+Symmetry in quantum mechanics	Center of mass (relativistic)
+Center of mass (relativistic)	Poincaré group
+Translation operator (quantum mechanics)	Time translation symmetry
+Translation operator (quantum mechanics)	Group (mathematics)
+Translation operator (quantum mechanics)	Time translation symmetry
+6D (2,0) superconformal field theory	N = 4 supersymmetric Yang–Mills theory
+Bioinformatics Open Source Conference	Intelligent Systems for Molecular Biology
+Symmetry of diatomic molecules	Molecular symmetry
+Symmetry of diatomic molecules	Molecular symmetry
+Symmetry of diatomic molecules	Symmetry in quantum mechanics
+Symmetry of diatomic molecules	Group (mathematics)
+Lie algebra extension	Virasoro algebra
+Lie algebra extension	Poincaré group
+Lie algebra extension	Virasoro algebra
+Lie algebra extension	Heisenberg group
+Lie algebra extension	Group contraction
+Multipole density formalism	X-ray crystallography
+Multipole density formalism	Macromolecule
+Time translation symmetry	Lie group
+Time translation symmetry	T-symmetry
+Time translation symmetry	Lie group
+Time translation symmetry	Lie group

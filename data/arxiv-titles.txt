@@ -1,0 +1,2542 @@
+solving gauge invariant systems without gauge fixing the physical projector in 0 1 dimensional theories
+exact two particle matrix elements in s matrix preserving deformation of integrable qfts
+introduction to pseudo group 
+ tree structures entropy and action principles for neighbourhood topologies 
+ yangians finite w algebras and the non linear schrodinger hierarchy 
+theoretical and phenomenological aspects of superstring theories 
+non trivial critical exponents for finite temperature chiral transitions at fixed total fermion number
+super matrix kdv and super generalized ns equations from self dual yang mills systems with supergauge groups
+calogero moser models iii elliptic potentials and twisting 
+ equivalence principle tunnelling quantized spectra and trajectories from the quantum hj equation 
+ volume of vortex moduli spaces 
+ the geometrodynamics of sine gordon solitons 
+ exact renormalization group flow equations for free energies and n point functions in uniform external fields
+ the n 4 quantum conformal algebra
+ integrability of supersymmetric quantum matrix models in the large n limit
+ a noncommutative geometric interpretation of the resolution of equivariant instanton moduli spaces
+ on the equivalence of the rational calogero moser system to free particles 
+ d branes on nonabelian threefold quotient singularities
+ the mathematics of fivebranes
+ summing up instantons in three dimensional yang mills theories
+ entropic c theorems in free and interacting two dimensional field theories
+ chern simons field theory and invariants of 3 manifolds
+ integrable hierarchies and contact terms in u plane integrals of topologically twisted supersymmetric gauge theories
+ parity and charge conjugation symmetries and s matrix of the xxz chain
+ aspects of the hypermultiplet moduli space in string duality
+ current trends in axiomatic quantum field theory
+ algebraic approach in unifying quantum integrable models
+ coherent state path integral approach for constrained fermion systems
+ galileo invariant system and the motion of relativistic d branes
+ trapped states and bound states of a soliton in a well
+ resolutions and characters of irreducible representations of the n 2 superconformal algebra 
+ energy of the vacuum with a perfectly conducting and infinite cylindrical surface
+ branes at angles and calibrated geometry 
+ on the ultraviolet behaviour of quantum fields over noncommutative manifolds
+ finite size and finite temperature effects in the conformally invariant o n vector model for 2 d 4
+ the inverse spectral theory for the ward equation and for the 2 1 chiral model
+ on nahm s transformation with twisted boundary conditions
+ su 2 calorons and magnetic monopoles
+ calogero moser models a new formulation
+ instanton strings and hyperkaehler geometry
+ boundary flows in minimal models
+ miura like free field realization of fermionic casimir wb 3 algebras
+ the determinant representation for quantum correlation functions of the sinh gordon model 
+ 3 sasakian manifolds
+ taniguchi lecture on principal bundles on elliptic fibrations
+ calogero moser and toda systems for twisted and untwisted affine lie algebras
+ new integrable lattice models from fuss catalan algebras 
+ a spin chain primer
+ free field resolutions of the unitary n 2 super virasoro representations 
+ duality and quantum algebra symmetry of the a n 1  1 open spin chain with diagonal boundary fields
+ combinatorial dynamics in quantum gravity
+ some conjectures looking for a ncg theory
+ derivative expansion of the effective action for qed in 2 1 and 3 1 dimensions
+ explicit solution of the quantum three body calogero sutherland model
+ the higgs branch of impurity theories
+ quantum kramers wannier duality and its topology
+ on the phase diagram of the discrete z 6 spin models
+ the equivalence postulate of quantum mechanics 
+ renormalization automated by hopf algebra 
+ on the quantum cohomology rings of general type projective hypersurfaces and generalized mirror transformation
+ a layman s guide to m theory 
+ a quasi exactly solvable n body problem with the sl n 1 algebraic structure
+ progress in classically solving ten dimensional supersymmetric reduced yang mills theories 
+ quantum cohomology at higher genus topological recursion relations and virasoro conditions
+ soliton solution of the integrable coupled nonlinear schrodinger equation of manakov type 
+ restricting affine toda theory to the half line 
+ classification of solutions to reflection equation of two component systems 
+ the modular and renormalisation groups in the quantum hall effect
+ localization and nonperturbative local quantum physics
+ magnetization and dynamically induced finite densities in three dimensional chern simons qed
+ the wilson renormalization group approach of the principal chiral model around two dimensions
+ planes branes and automorphisms ii branes in motion 
+ the action of outer automorphisms on bundles of chiral blocks 
+ liouville central charge in quantum teichmuller theory
+ near horizon geometries of supersymmetric branes 
+ degenerate odd poisson bracket on grassmann variables 
+ on form factors in sin h gordon theory
+ calogero model and sl 2 r algebra 
+ combinatorial spacetimes
+ calogero moser lax pairs with spectral parameter for general lie algebras
+ exact vortex solutions of the complex sine gordon theory on the plane
+ modular constructions of quantum field theories with interactions
+ d k gravitational instantons and nahm equations
+ soliton preserving boundary condition in affine toda field theories
+ solving differential equations for 3 loop diagrams relation to hyperbolic geometry and knot theory
+ donaldson invariants for nonsimply connected manifolds
+ integrable theories in any dimension and homogenous spaces 
+ hitchin systems at low genera 
+ on the implementation of supersymmetry
+ light cone expansion of the dirac sea in the presence of chiral and scalar potentials
+ chern simons theory knot invariants vertex models and three manifold invariants 
+ intersecting brane geometries 
+ combinatorial formulae for vassiliev invariants from chern simons gauge theory
+ lagrangian symmetries of chern simons theories
+ a dilogarithmic 3 dimensional ising tetrahedron
+ mixing of ground states in vertex models
+ nonrenormalizability and nontriviality
+ current oscillations interacting hall discs and boundary cfts 
+ the pivotal role of causality in local quantum physics
+ dynamical generation of fermion mass and magnetic field in three dimensional qed with chern simons term
+9 quantum conformal algebras and closed conformal field theory
+4 morita equivalence and duality 
+7 dirac s contour representation for paraparticles
+7 moduli in n 1 heterotic f theory duality
+9 string geometry and the noncommutative torus 
+2 on the general structure of gauged wess zumino witten terms 
+7 spectral determinants for schroedinger equation and q operators of conformal field theory
+0 turbulence without pressure in d dimensions 
+8 quantum dynamical  check r  matrix with spectral parameter from fusion
+1 spontaneous magnetization in the finite xxz spin chain with boundaries 
+7 on the global structure of some natural fibrations of joyce manifolds 
+6 antiferromagnetic s 1 2 heisenberg chain and the two flavor massless schwinger model
+0 superconformal mechanics black holes and non linear realizations 
+1 the partition function versus boundary conditions and confinement in the yang mills theory
+8 finite size formula in the xyz spin chain 
+3 yangian realisations from finite w algebras
+9 on the generalized casson invariant
+2 on overlapping divergences
+8 acceleration radiation for orbiting electrons
+4 wigner trajectory characteristics in phase space and field theory
+3 exclusion statistics in conformal field theory  generalized fermions and spinons for level 1 wzw theories
+9 monopoles and solitons in fuzzy physics 
+8 duality without supersymmetry 
+8 eigenstates of paraparticle creation operators
+5 a unified conformal field theory description of paired quantum hall states
+1 generalized calogero models through reductions by discrete symmetries 
+4 integrable chiral theories in 2 1 dimensions
+0 particle physics and qft at the turn of the century old principles with new concepts an essay on local quantum physics 
+9 generalized calogero sutherland systems from many matrix models
+7 charged particles in a 2 1 curved background
+9 quantum exchange algebra and exact operator solution of a 2 toda field theory
+6 a proof of quark confinement in qcd
+0 singular monopoles and gravitational instantons
+5 spectral geometry of heterotic compactifications 
+9 general solution of 7d octonionic top equation
+0 coset conformal field theories with abelian isotropy groups
+2 discrete symmetries and s matrix of the xxz chain
+8 bulk and boundary s matrices for the su n chain
+6 nearest neighbor two point correlation function of the z invariant eight vertex model 
+4 3 manifold topology and the donaldson witten partition function
+0 exact solutions of graded temperley lieb hamiltonians
+1 decomposition of time ordered products and path ordered exponentials
+9 discrete symmetries of unitary minimal conformal theories
+4 the heterotic string the tangent bundle and derived categories 
+4 matrix representations of holomorphic curves on t 4 
+9 boundary conditions changing operators in non conformal theories
+3 the determinant representation for a correlation function in scaling lee yang model 
+2 tau functions generating the conservation laws for generalized integrable hierarchies of kdv and affine toda type
+2 functional evolution of free quantum fields
+1 hungry volterra equation multi boson kp hierarchy and two matrix models 
+6 principal realization for the extended affine lie algebra of type sl 2 with coordinates in a simple quantum torus with two generators 
+4 the quantization of the generalized mkdv equations for  hat  sl 2 
+3 poisson brackets of normal ordered wilson loops
+6 one loop finite temperature effective action of qed in the worldline approach
+3 do anyons solve heisenberg s urgleichung in one dimension
+2 a lie algebra for closed strings spin chains and gauge theories 
+4 construction formulae for singular vectors of the topological n 2 superconformal algebra
+6 bridging the dimensional gap from kink in one dimension to curved domain wall in three dimensions
+5 cellular networks as models for planck scale physics
+3 determinations of rational dedekind zeta invariants of hyperbolic manifolds and feynman knots and links 
+2 higher order brst and anti brst operators and cohomology for compact lie algebras 
+1 brst inner product spaces and the gribov obstruction
+3 on the only three short distance structures which can be described by linear operators 
+1 semigroup extensions of isometry groups of flat spacetimes compactified over lightlike lattices
+3 a new approach to gauge fields
+5 exact form factors in integrable quantum field theories the sine gordon model
+4 singular dimensions of the n 2 superconformal algebras i 
+3 yang mills theory and the segal bargmann transform
+2 three aspects of bosonized supersymmetry and linear differential field equation with reflection
+5 a note on ade spectra in conformal field theory
+1 factorized combinations of virasoro characters
+3 on a 2 1 reflection matrices and affine toda theories 
+0 integrals of motion supersymmetric quantum mechanics and dynamical supersymmetry 
+8 the thirring model 40 years later
+9 axiomatic conformal field theory
+2 the microscopic spectral density of the qcd dirac operator
+9 more about the s 1 relativistic oscillator
+0 string holonomy and extrinsic geometry in four dimensional topological gauge theory 
+9 non commutative geometry for outsiders an elementary introduction to motivations and tools 
+2 hopf algebras renormalization and noncommutative geometry 
+8 the master equation for the prepotential pub
+4 quantization of the nonlinear schrodinger equation on the half line
+7 numerical field theory on the continuum
+0 classification of reflexive polyhedra in three dimensions
+8 calogero moser models ii symmetries and foldings 
+5 on extremal transitions of calabi yau threefolds and the singularity of the associated 7 space from rolling 
+8 the nonlinear schrodinger equation on the half line 
+5 equivalence principle planck length and quantum hamilton jacobi equation 
+2 a remarkable connection between yangians and finite w algebras
+3 icmp lecture on heterotic f theory duality
+9 resonance nls solitons as black holes in madelung fluid
+2 instantons on a non commutative t 4 from twisted 2 0 and little string theories 
+0 vortices and flat connections 
+0 explicit computations for the intersection numbers on grassmannians and on the space of holomorphic maps from cp 1 into g r c n 
+4 exact solution for a quantum field with  delta like interaction
+4 on the uniqueness of the non abelian gauge theories in epstein glaser approach to renormalisation theory
+7 parity and large gauge invariance in thermal qed 3
+6 non abelian kramers wannier duality and topological field theory
+3 two disjoint aspects of the deformation programme quantizing nambu mechanics singleton physics
+2 linear odd poisson bracket on grassmann variables 
+8 conformal symmetry and duality between free particle h atom and harmonic oscillator 
+1 massive 3 loop feynman diagrams reducible to sc primitives of algebras of the sixth root of unity
+5 superconformal invariance and the geography of four manifolds
+9 duality in perturbation theory and the quantum adiabatic approximation 
+7 exact solution of double delta function bose gas through interacting anyon gas
+6 difference equations for the correlation functions of the eight vertex model
+7 generalized drinfeld sokolov reductions and kdv type hierarchies
+0 integrable systems and classification of 2 dimensional topological field theories
+0 a class of bicovariant differential calculi on hopf algebras
+7 affine toda solitons and automorphisms of dynkin diagrams
+1 even and odd symplectic and k  ahlerian structures on projective superspaces 
+1 link invariants of finite type and perturbation theory
+1 b  acklund transformations for nonlinear evolution equations hilbert space approach 
+3 introduction to random matrices
+9 constant solutions of reflection equations and quantum groups
+4 an introduction to non commutative differential geometry on quantum groups
+4 the quantum double as quantum mechanics
+6 the mathai quillen formalism and topological field theory
+2 determinants of laplacians the ray singer torsion on lens spaces and the riemann zeta function 
+2 lie algebraic approach to the theory of polynomial solutions iii differential equations in two real variables and general outlook 
+4 algebraic structures related to reflection equations 
+1 fusion rules and r matrices for representations of sl 2 q at roots of unity
+8 braided matrix structure of the sklyanin algebra and of the quantum lorentz group
+7 quasi quantum groups knots three manifolds and topological field theory 
+5 r matrices for highest weight representations of sl q 2 c at roots of unity 
+9 differential geometry on linear quantum groups
+7 r matrices for the semicyclic representations of u q sl 2 
+2 unimodality of generalized gaussian coefficients
+4 fusion algebra and verlinde s formula
+4 quantum field theory as a problem of resummation short guide to using summability methods 
+3 reidemeister torsion the alexander polynomial and u 1 1  chern simons theory 
+5 semiclassical approximation in batalin vilkovisky formalism
+5 cyclic monodromy matrices for sl n trigonometric r matrices 
+7 covariance properties of reflection equation algebras
+7 partitions vertex operator constructions and multi component kp equations 
+1 the lie poisson structure of integrable classical non linear sigma models
+5 correlation functions of the xxz model for  delta 1 
+4 clebch gordan and racah wigner coefficients for u q su 1 1  
+5 higher algebraic structures and quantization
+1 combinatorics of the modular group ii the kontsevich integrals
+9 s and t matrices for the super u 1 1  wzw model application to surgery and 3 manifold invariants based on the alexander conway polynomial 
+6 quantum and braided linear algebra
+7 rational curves on calabi yau threefolds
+4 dilogarithm identities q difference equations and the virasoro algebra 
+5 addendum to the paper  combinatorics of the modular group ii the kontsevich integrals  
+1 on an algebraic approach to higher dimensional statistical mechanics
+4 level spacing distributions and the airy kernel
+6 separation of variables in the classical integrable sl 3 magnetic chain
+4 symmetries and motions in manifolds
+0 dilogarithm identities partitions and spectra in conformal field theory i 
+5 singularity complexity and quasi integrability of rational mappings 
+8 corner transfer matrices and quantum affine algebras
+1 quantum inverse scattering method selected topics
+9 quantum theory of non abelian differential forms and link polynomials
+7 dilogarithm identities and spectra in conformal field theory
+9 a quadratic deformation of the heisenberg weyl and quantum oscillator enveloping algebras
+7 on polynomial solutions of differential equations 
+7 quantum algebras and lie groups
+0 on the linearized artin braid representation 
+0 polynomial averages in the kontsevich model
+9 conformal models of two dimensional turbulence
+6 separation of variables in the quantum integrable models related to the yangian 
+8 tau functions and generalized integrable hierarchies
+0 quantum groups  q oscillators and covariant algebras 
+9 the universal r matrix and its associated quantum algebra as functionals of the classical r matrix the sl 2  case
+5 r matrix approach to quantum superalgebras su q m n 
+5 symplectic geometries on t  widetilde g  hamiltonian group actions and integrable systems 
+1 level spacing distributions and the airy kernel
+0 lie algebraic approach to the theory of polynomial solutions ii differential equations in one real and one grassmann variables and 2x2 matrix differential equations 
+5 ray singer torsion topological field theories and the riemann zeta function at s 3 
+6 jordanian solutions of simplex equations
+0 invariants of colored links and a property of the clebsch gordan coefficients of u q g 
+9 lie algebraic approach to the theory of polynomial solutions i ordinary differential equations and finite difference equations in one variable 
+7 structure of the space of states in rsos models
+7 quantum gravity and the algebra of tangles
+5 minimal deformations of the commutative algebra and the linear group gl n 
+1 classical chern simons theory part 1 
+9 the quantum bialgebra associated with the eight vertex r matrix
+6 classical theta functions and quantum tori
+7 differential geometry of toda systems
+4 equivariant topological sigma models
+4 generalized ray singer conjecture i a manifold with a smooth boundary
+5 generalized calabi yau manifolds and the mirror of a rigid manifold
+9 a class of frt quantum groups and fun q g 2  as a special case
+3 evaluating the crane yetter invariant
+4 combinatorial expression for universal vassiliev link invariant
+1 su 2 and the kauffman bracket
+2 gauss hypergeometric function and quadratic r matrix algebras 
+6 degenerations of sklyanin algebra and askey wilson polynomials
+1 hamiltonian structure of equations appearing in random matrices
+1 differential algebras in non commutative geometry
+2 quantum group and manin plane related to a coloured braid group representation
+5 diffeomorphism invariant generalized measures on the space of connections modulo gauge transformations
+5 berenstein zelevinsky triangles elementary couplings and fusion rules 
+1 new modular hopf algebras related to rational k  widehat sl 2  
+7 on the integrability of n 2 landau ginzburg models a graph generalization of the yang baxter equation
+7 akns hierarchy self similarity string equations and the grassmannian 
+2 study of quommutators of quantum variables and generalized derivatives
+3 quasifinite highest weight modules over the lie algebra of differential operators on the circle
+9 vertex operator algebras and operads
+5 classical and quantum integrable systems in  wt gr gl  2    and separation of variables
+8 rings of skew polynomials and gel fand kirillov conjecture for quantum groups
+5 universal teichm  uller space in geometry and physics 
+4 geometrical origin of integrability for liouville and toda theory
+5 regular representation of the quantum heisenberg double u q sl 2   fun q sl 2   q is a root of unity 
+3 covariant  tensor method for quantum groups and applications i  su 2  q 
+0 italian workshop on quantum groups
+5 yang baxter equation symmetric functions and grothendieck polynomials 
+8 representations of the s n extended heisenberg algebra and relations between knizhnik zamolodchikov equations and quantum calogero model
+1 characteristic dynkin diagrams and w algebras
+8 knot theory and quantum gravity in loop space a primer
+6 spacetime topology change the physics of calabi yau moduli space
+0 functional determinants on spheres and sectors
+4 fusion algebra at a rational level and cohomology of nilpotent subalgebras of sl 2
+8 representations of affine lie algebras elliptic r matrix systems and special functions 
+0 quantum dilogarithm
+8 quantum and braided lie algebras
+8 on  widehat sl 3  reduction quantum gauge transformations and  cal w  algebras singular vectors 
+2 a categorical construction of 4d tqfts
+0 polynomial relations in the centre of u q sl n 
+2 fredholm determinants differential equations and matrix models 
+1 general properties of classical w algebras
+3 combinatorial b n analogues of schubert polynomials
+0 vertex operators in solvable lattice models
+5 vertex operator superalgebras and their representations
+1 chern simons theory on an arbitrary manifold via surgery
+1 the n to infinity limit of the chiral potts model
+3 representations of affine lie algebras parabolic differential equations and lame functions 
+0 w  geometry of the toda systems associated with non exceptional simple lie algebras
+2 classical differential geometry and integrability of systems of hydrodynamic type
+8 brst quantisation and the product formula for the ray singer torsion
+3 mirror symmetry for two parameter models  i
+6 from quantum planes to quantum groups and back cartan calculus
+0 structure of topological lattice field theories in three dimensions
+1 hamiltonian formulation of sl 3 ur kdv equation
+7 calabi yau moduli space mirror manifolds and spacetime topology change in string theory 
+5 on universal r matrix for quantized nontwisted rank 3 affine lie algebras
+9 lie algebras and braided geometry
+6 dynamical aspects of lie poisson structures 
+0 quantum deformation of the affine transformation algebra
+7 integral intertwining operators and complex powers of differential  q difference operators
+8 the trace of the heat kernel on a compact hyperbolic 3 orbifold
+2 new relations for two dimensional hermite polynomials
+5 super elliptic curves
+2 free fermionic elliptic reflection matrices and quantum group invariance
+0 quantum r matrix and intertwiners for the kashiwara algebra
+7 lattice w algebras and quantum groups
+6 solvable lattice models labelled by dynkin diagrams
+9 more on u q su 1 1  with q a root of unity 
+2 chern simons theory colored oriented braids and link invariants 
+0 roots of unity representations of quantum groups
+6 free braided differential calculus braided binomial theorem and the braided exponential map 
+9 level two irreducible representations of u q widehat sl 2  vertex operators and their correlations 
+7 quantum affine algebras and universal r matrix with spectral parameter
+1 multi colour braid monoid algebras
+2 homologically twisted invariants related to 2 1  and 3 1 dimensional state sum topological quantum field theories
+4 the representations of temperley lieb jones algebras
+3 holomorphic anomalies in topological field theories
+2 combinatorial invariants from four dimensional lattice models ii
+1 two dimensional integrable systems and self dual yang mills equations
+8 seventy relatives of the monster module
+8 some quantum analogues of solvable lie groups
+2 measuring small distances in n 2 sigma models
+6 q oscillators q epsilon tensor q groups 
+3 graph irf models and fusion rings
+4 diffeomorphisms from higher dimensional w algebras
+1 k  ahler manifolds with positive first chern class and mirrors of rigid calabi yau manifolds 
+2 cartan calculus for hopf algebras and quantum groups
+9 on the fundamental representation of borcherds algebras with one imaginary simple root
+8 quantum affine algebras and universal r matrix with spectral parameter ii 
+4 the spectral problem for the q knizhnik zamolodchikov equation and continuous q jacobi polynomials
+8 on the addition of quantum matrices
+4 symplectic structure of the moduli space of flat connections on a riemann surface
+7 group actions and deformations for harmonic maps
+6 quantization of the external algebra on a poisson lie group
+0 the seven sphere and its kac moody algebra
+2 is it possible to extend the deformed weyl algebra w q n  to a hopf algebra 
+5 hidden algebra of the n body calogero problem
+4 mirror maps and instanton sums for complete intersections in weighted projective space
+1 star products and deformed oscillators
+3 on a c number quantum  tau function
+3 a zeta function approach to the relation between the numbers of symmetry planes and axes of a polytope
+3 brst structure of polynomial poisson algebras
+3 description of moduli space of projective structures via fat graphs
+7 toda and volterra lattice equations from discrete symmetries of kp hierarchies
+8 bethe ansatz and quantum groups
+0 combinatorial invariants from four dimensional lattice models
+9 generalization of the gale ryser theorem
+3 poisson geometry of flat connections for  roman su 2  bundles on surfaces
+0 generalized kazakov migdal kontsevich model group theory aspects
+8 representations of the compact quantum group su q n  and geometrical quantization
+8 we are not stuck with gluing
+4 on the algebraic structures connected with the linear poisson brackets of hydrodynamics type
+1 a krichever novikov formulation of w algebras on riemann surfaces
+0 dynamical r matrices for the elliptic calogero moser model
+9 boundary k matrices for the xyz xxz and xxx spin chains 
+7 loop algebra moment maps and hamiltonian models for the painleve transcendants
+1 q deformed brownian motion
+9 a theory of tensor products for module categories for a vertex operator algebra ii 
+7 chern simons perturbation theory ii 
+4 the basis of the ponzano regge turaev viro ooguri model is the loop representation basis
+4 the verlinde algebra and the cohomology of the grassmannian
+3 r matrices for elliptic calogero moser models
+7 central extensions of current groups in two dimensions
+1 dilogarithm identities in conformal field theory and group homology
+8 symplectic structures associated to lie poisson groups
+1 on a q deformation of the discrete painlev e i equation and q orthogonal polynomials 
+9 representations of q minkowski space algebra
+8 topological representations of u q sl 2  on the torus and the mapping class group
+6 differential operator algebras on compact riemann surfaces
+4 on the clebsch gordan coefficients for the two parameter quantum algebra su 2  p q  
+7 hidden symmetries special geometry and quaternionic manifolds 
+3 on free differentials on associative algebras
+1 quantum affine lie algebras casimir invariants and diagonalization of the braid generator 
+8 the lie algebra of sl 2 valued automorphic functions on a torus
+9 quantum deformations for the diagonal r matrices
+0 solutions of the yang baxter equations from braided lie algebras and braided groups
+8 on the squeezed vacuum states corresponding to the general two mode bogolubov transformation
+3 affine gelfand dickey brackets and holomorphic vector bundles
+2 exact solution of the su q n  invariant quantum spin chains
+5 quantum double for a nonstandard deformation of a borel subalgebra sl 2 c  
+5 exact solution of the general non intersecting string model
+4 integrability in hamiltonian chern simons theory
+4 cross product quantisation nonabelian cohomology and twisting of hopf algebras 
+4 on discrete symmetries of the multi boson kp hierarchies
+4 the differential geometry of fedosov s quantization 
+0 uniformization theory and 2d gravity i liouville action and intersection numbers
+9 quantum groups
+4 toeplitz quantization of k  ahler manifolds and gl n  n to infty  
+6 the kazhdan lusztig conjecture for finite w algebras
+1 introduction to vertex algebras borcherds algebras and the monster lie algebra 
+3 quantized affine lie algebras and diagonalization of braid generators
+4 spherical categories
+9 correlation functions of the spin 1 analog of the xxz model
+1 universality of the universal r matrix and applications to quantum integrable systems
+4 exponential mapping for non semisimple quantum groups
+5 invariants of piecewise linear 3 manifolds
+6 quantum knizhnik zamolodchikov equations and holomorphic vector bundles
+9 critical points of the product of powers of linear functions and families of bases of singular vectors
+0 on diff s 1 covariantization of pseudodifferential operator
+6 quantum cohomology of flag manifolds and toda lattices
+2 yangians and gelfand zetlin bases
+5 generalized quantization scheme for central extensions of lie algebras
+2 integrals of motion and quantum groups
+4 topological quantum field theory and invariants of graphs for quantum groups
+5 quantum supergroups of gl n m  type differential forms koszul complexes and berezinians 
+2 poisson lie groups quantum duality principle and the quantum double 
+6 intersecting braids and intersecting knot theory
+2 on a possible algebra morphism of u q
+1 on foundation of the generalized nambu mechanics
+9 flat structure for the simple elliptic singularity of type  widetilde  bf e 6  and jacobi form 
+7 isospectral flow and liouville arnold integration in loop algebras
+6 string equations for the unitary matrix model and the periodic flag manifold
+8 the quantum de rham complexes associated with sl h 2 
+5 linear r matrix algebra for classical separable systems
+0 braided matrix structure of q minkowski space and q poincare group
+3 unitary continuous representations of compact quantum groups 
+4 lattice w algebras and quantum groups
+0 canonical chern simons theory and the braid group on a riemann surface
+6 dilogarithm identities fusion rules and structure constants of cfts 
+3 link invariants holonomy algebras and functional integration 
+2 surgical invariants of four manifolds
+2 more on quantum groups from the the quantization point of view
+9 finite dimensional representations of the quantum superalgebra u 
+6 drinfel d algebra deformations and the associahedra
+4 representations of the quantum matrix algebra m q p 2  
+5 quantum groups non commutative differential geometry and applications 
+3 finite chains with quantum affine symmetries
+2 mirror symmetry mirror map and applications to calabi yau hypersurfaces 
+1 generalized measures in gauge theory
+0 4d quantum affine algebras and space time q symmetries
+1 on functional determinants of laplacians in polygons and simplices
+6 liouville equation and schottky problem
+9 solutions to knizhnik zamolodchikov equations with coefficients in non bounded modules
+2 a method for obtaining quantum doubles from the yang baxter r matrices
+3 finite dimensional representations of the quantum superalgebra u  q 
+1 chern simons approach to three manifold invariants
+1 a characterization of the differential in semi infinite cohomology
+6 on the fundamental group of the space of harmonic 2 spheres in the n sphere
+6 semi infinite cohomology of w algebras
+6 uniqueness of u q n  as a quantum gauge group and representations of its differential algebra
+3 macdonald s polynomials and representations of quantum groups
+6 quantum weyl algebras
+8 hidden symmetry of the racah and clebsch gordan problems for the quantum algebra sl q 2 
+6 reflection equations and q minkowski space algebras
+9 a large k asymptotics of witten s invariant of seifert manifolds
+1 infinite dimensional symmetry of corner transfer matrices
+7 tau functions for the dirac operator on the poincare disk
+3 universal exponential solution of the yang baxter equation
+5 poisson lie group of pseudodifferential symbols and fractional kp kdv hierarchies
+5 w infinity structure of the sl n  conformal affine toda theories
+2 on the classicality of broda s su 2 invariant of 4 manifolds
+1 new modular representations and fusion algebras from quantized sl 2 r chern simons theory 
+1 a note on the four dimensional kirby calculus
+3 on the hopf algebras generated by the yang baxter r matrices
+2 on solvable lattice models and knot invariants
+2 covariant differential complexes on quantum linear groups
+6 quantum double of heisenberg weyl algebra its universal r matrix and their representations 
+3 some cohomology operators in 2 d field theory
+7 difference equations with elliptic coefficients and quantum affine algebras
+4 effective action in spherical domains
+9 on soliton content of self dual yang mills equations
+2 motion of wavefunction zeros in spin boson systems
+8 quantum chains with u q sl 2  symmetry and unrestricted representations
+2 modules over affine lie superalgebras
+8 quantum group invariant integrable n state vertex models with periodic boundary conditions
+6 elliptic genera and n 2 superconformal field theory
+1 a unified representation theoretic approach to special functions
+6 the conserved charges and integrability of the conformal affine toda models
+6 once more about spectral dependent quantum r matrix for u q a 2 
+0 spectrum of an elliptic free fermionic corner transfer matrix hamiltonian
+7 self similar potentials and the q oscillator algebra at roots of unity
+5 elliptic solution for modified tetrahedron equations
+2 the r matrix structure of the euler calogero moser model
+3 reflection equation and link polynomials for arbitrary genus solid tori
+7 on pentagon and tetrahedron equations
+5 solutions of quantum yang baxter equation related to u q gl 2  algebra and associated integrable lattice models
+6 a theory of tensor products for module categories for a vertex operator algebra i 
+4 mirror symmetry for hypersurfaces in weighted projective space and topological couplings
+0 scaling self similar formulation of the string equations of the hermitian matrix model
+9 where is the large radius limit 
+8 a generalized  surfaceless  stokes theorem
+6 quantum heisenberg groups and sklyanin algebras
+2 brst model applied to symplectic geometry
+3 level spacing distributions and the bessel kernel
+3 division algebras galois fields quadratic residues 
+8 fundamentals of poisson lie groups with application to the classical double
+9 multivariable invariants of colored links generalizing the alexander polynomial
+5 spin structures on kleinian manifolds 
+1 integrability of n  3 super yang mills equations
+2 quantum integrable systems and representations of lie algebras
+2 yang baxter symmetry in integrable models new light from the bethe ansatz solution
+2 glueing operation for r matrices quantum groups and link invariants of hecke type 
+3 complex analytic realizations for quantum algebras
+8 rieffel induction as generalized quantum marsden weinstein reduction 
+4 n point correlation functions of the spin 1 xxz model
+2 symplectic and poisson structures of certain moduli spaces
+0 boundary induced phase transitions in equilibrium and non equilibrium systems
+1  r matrices for the n 2 3 elliptic calogero moser models 
+6 finite dimensional representations of u q c n 1  at arbitrary q 
+6 unitarity and complete reducibility of certain modules over quantized affine lie algebras
+0 jackson integral representations for solutions to the quantized knizhnik zamolodchikov equation
+5 calabi yau 4 folds and toric fibrations
+7 non linear integral equation and excited states scaling functions in the sine gordon model
+4 iterated residues and multiple bernoulli polynomials
+5 transmutations between singular and subsingular vectors of the n 2 superconformal algebras
+9 solitons in high energy qcd
+6 the scattering theory of oscillator defects in an optical fiber
+3 equivalence between chain categories of representations of affine sl 2 and n 2 superconformal algebras 
+7 the secret  homological algebra of the batalin vilkovisky approach 
+1 renormalization group transformation for the wave function
+5 nonlinear electrodynamics with singularities modernized born infeld electrodynamics 
+4 two component reduction of nahm s equations and hyper elliptic solution
+0 the hamiltonian structure of the n 2 supersymmetric gnls hierarchy
+9 solitonic integrable perturbations of parafermionic theories
+9 application of microlocal analysis to the theory of quantum fields interacting with a gravitational field
+7 three body generalizations of the sutherland problem 
+8 o n models within the local potential approximation
+0 the dynamics of classical chiral qcd 2  currents 
+0 brst symmetries for the tangent gauge group 
+4 a finite quantum symmetry of m 3 c 
+4 expectation values of local fields in bullough dodd model and integrable perturbed conformal field theories
+5 on the erg approach in 3  d well developed turbulence 
+9 extensions of conformal nets and superselection structures
+1 exactly solvable models in arbitrary dimensions
+2 special kahler manifolds 
+6 analytic continuation of operators  operators acting complex s times  applications from number theory and group theory to quantum field and string theories 
+5 fixed point analysis of a scalar theory with an external field
+8 euclidean d branes and higher dimensional gauge theory
+8 gauge theory and the division algebras
+0 a doubled discretisation of abelian chern simons theory 
+9 physical meaning of quantum space time symmetries
+1 microscopic universality in random matrix models of qcd
+9 a nonperturbative form of the spectral action principle in noncommutative geometry 
+1 supersymmetry and the cohomology of hyper kaehler manifolds 
+7 lattice approximation of quantum statistical traces at a complex temperature
+6 baby skyrmions on the sphere
+6 q functional field theory for particles with exotic statistics 
+9 vertex operator representation of the soliton tau functions in the a n  1  toda models by dressing transformations
+3 integration over the u plane in donaldson theory 
+1 solitons and black holes
+6 knots and matrix models
+5 loop homotopy algebras in closed string field theory
+2 duality symmetries and noncommutative geometry of string spacetime 
+0 mirror symmetry and exact solution of 4d n 2 gauge theories i
+6 kontsevich integral for vassiliev invariants from chern simons perturbation theory in the light cone gauge
+3 gauge symmetry and integrable models
+7 multi parameter deformed and nonstandard y gl m  yangian symmetry in a novel class of spin calogero sutherland models
+8 gauge theories on manifolds with boundary
+3 picture changing operators in supergeometry and superstring theory 
+4 non split geometry on products of vector bundles 
+2 on the braided fock spaces
+7 tba and tcsa with boundaries and excited states
+0 bi graded markovian matrices as non local dirac operators and a new quantum evolution 
+4 effective actions relative cohomology and chern simons forms 
+1 chiral determinant formulae and subsingular vectors for the n 2 superconformal algebras 
+0 2 1 einstein gravity as a deformed chern simons theory
+8 topological charges and the genus of surfaces
+3 multi spin correlation functions for the z invariant ising model 
+5 duality in 2d spin models on torus
+4 on trigonometric intertwining vectors and non dynamical r matrix for the ruijsenaars model 
+2 bihamiltonian hierarchies in 2d topological field theory at one loop approximation
+4 black scholes equation from gauge theory of arbitrage 
+1 deformed heisenberg algebra with reflection
+4 vertex operator extension of casimir w a n algebras
+5 factorization of multiparticle scattering in the heisenberg spin chain
+1 new tetrads for general relativity
+8 grassmannian cohomolgy rings and fusion rings from algebraic equations
+2 lectures in topological quantum field theory 
+4 about symmetries in physics
+2 what is quantum field theory and why have some physicists abandoned it 
+2 on infravacua and superselection theory
+4 normal ordering in the theory of correlation functions of exactly solvable models 
+1 relative entropy in 2d quantum field theory finite size corrections and irreversibility of the renormalization group 
+2 n 2 super conformal filed theory on the basis of osp 2 2 
+6 the sh lie structure of poisson brackets in field theory 
+8 the equivalence principle of quantum mechanics uniqueness theorem
+8 the geometry of supersymmetric gauge theories in four dimensions 
+6 the monodromy matrices of the xxz model in the infinite volume limit
+8 deformed chern simons theories
+8 gaudin model kz equation and isomonodromic problem on torus 
+3 a special irreducible matrix representation of the real clifford algebra c 3 1 
+6 noncommutative geometry and spacetime gauge symmetries of string theory
+0 a note on free bosonic vertex algebra and its conformal vectors
+1 aharonov bohm effect in curved space and cosmic strings
+1 families of singular and subsingular vectors of the topological n 2 superconformal algebra 
+0 form factors of exponential fields in the sine gordon model
+6 free boson representation of dy  hbar gl n k
+2 self isospectral periodic potentials and supersymmetric quantum mechanics
+3 applying the linear delta expansion to i phi 3 
+1 quantum group generators in conformal field theory
+4 twisted baryon number in n 2 supersymmetric qcd 
+9 generalized cohomologies and the physical subspace of the su 2  wznw model
+7 the semiclassical approximation for the chern simons partition function 
+5 boundary s matrix for the xxz chain
+6 definition of the dirac sea in the presence of external fields 
+5 purely transmitting defect field theories
+1 on n point correlations in the log gas at rational temperature
+6 form factors thermal states and modular structures 
+2 supersymmetric yang mills octonionic instantons and triholomorphic curves 
+4 twisted self duality of dimensionally reduced gravity and vertex operators
+1 q functional wick s theorems for particles with exotic statistics 
+5 on pairs of difference operators satisfying 
+3 local u 2 2 symmetry in relativistic quantum mechanics 
+4 dynamics in a noncommutative phase space
+1 kappa deformed covariant phase space and quantum gravity uncertainty relations
+2 quantum cohomology and free field representation
+6 mathematical problems of gauge quantum field theory a survey on the schwinger model
+0 nahm s equations and root systems
+0 symmetries and classical quantization
+7 a direct method for obtaining the differential conservation laws 
+4 quantum integrable systems basic concepts and brief overview
+9 a note on the faddeev popov determinant and chern simons perturbation theory
+3 hidden quantum group structure in einstein s general relativity
+8 small oscillations of a chiral gross neveu system
+9 on field theoretic generalizations of a poisson algebra 
+4 supermanifolds of classical solutions for lagrangian field models with ghost and fermion fields
+9 geodesic incompleteness in the cp 1 model on a compact riemann surface
+4 chaos in effective classical and quantum dynamics
+2 polynomial recursion equations in form factors of ade toda field theories
+3 new geometrical approach to superstrings 
+5 towards a string formulation of vortex dynamics 
+1 angular quantization and form factors in massive integrable models
+3 g u 1 d parafermions from constrained wznw theories
+9 gauge invariant operators for singular knots in chern simons gauge theory
+2 non linear integral equations for complex affine toda associated to simply laced lie algebras
+0 a new approach to functional analysis on graphs the connes spectral triple and its distance function 
+3 tetrahedron reflection equation 
+1 a braided interpretation of fractional supersymmetry in higher dimensions
+1 a lax representation for the born infeld equation
+8 light cone expansion of the dirac sea to first order in the external potential
+8 exact four spinon dynamical correlation function of the heisenberg model
+0 symmetry algebras of large n matrix models for open strings 
+9 on the generalizations of poisson structures 
+5 yang mills flow and uniformization theorems
+9 a representation theoretic approach to the wzw verlinde formula 
+7 a new approach to integrable theories in any dimension
+7 the definition of neveu schwarz superconformal fields and uncharged superconformal transformations
+2 generalized jacobi structures
+7 classical limit of the knizhnik zamolodchikov bernard equations as hierarchy of isomonodromic deformations free fields approach
+1 new fundamental symmetries of integrable systems and partial bethe ansatz 
+5 topology and physics a historical essay 
+7 the riemann hilbert problem associated with the quantum nonlinear schrodinger equation 
+4 lyapunov exponents and hodge theory 
+9 zero curvature formalism for supersymmetric integrable hierarchies in superspace
+9 canonical structure of classical field theory in the polymomentum phase space 
+0 ghost systems a vertex algebra point of view
+0 yangian gelfand zetlin bases gl n jack polynomials and computation of dynamical correlation functions in the spin calogero sutherland model 
+2 gauge invariance finite temperature and parity anomaly in d 3 
+1 su n meander determinants
+6 d brane bound states redux
+6 group analysis and renormgroup symmetries 
+1 qft s with action of degree 3 and higher and degeneracy of tensors
+0 expectation values of boundary fields in the boundary sine gordon model
+6 effective qed actions representations gauge invariance anomalies and mass expansions 
+8 an introduction to noncommutative spaces and their geometry
+9 a matrix model solution of hirota equation
+6 time and temperature dependent correlation functions of 1d models of quantum statistical mechanics 
+7 on the geometry of the quantum poincare group
+8 expansion in the width and collective dynamics of a domain wall
+2 a 1d model for n level atoms coupled to an em field
+4 on infinite dimensional algebras of symmetries of the self dual yang mills equations 
+2 dimension theory of graphs and networks
+2 vector bundles and f theory
+8 on axioms for a vertex algebra and the locality of quantum fields
+3 various shades of blue s functions
+1 the higher cohomologies of e 8 lie algebra 
+5 r deformed heisenberg algebra
+3 sine gordon solitons and black holes
+1 quantum groups roots of unity and particles on quantized anti de sitter space 
+2 twistor spaces for qkt manifolds
+8 higher dimensional analogues of donaldson witten theory
+3 gravitation as a many body problem
+1 correlation lengths and e 8 mass spectrum of the dilute a 3 lattice model
+2 non perturbative superpotentials in landau ginzburg compactification
+0 evolution of ward takahashi relations and how i used them
+2 string orthogonal polynomials string equations and 2 toda symmetries 
+6 sheaves on toric varieties for physics
+2 symmetries of large n matrix models for closed strings
+2 embedding diagrams of n 2 verma modules and relaxed sl 2 verma modules
+7 first order vortex dynamics
+3 reducible connections in massless topological qcd and 4 manifolds
+1 geometry of dynamics and phase transitions in classical lattice phi 4 theories 
+2 the ruijsenaars schneider model
+1 quantum fields at any time
+6 multicritical microscopic spectral correlators of hermitian and complex matrices
+3 exact two point correlation functions of turbulence without pressure in three dimensions
+9 free field construction for correlation functions of the eight vertex model 
+9 is there chaos in string cosmology 
+6 quantum cohomology and virasoro algebra
+9 bell s inequality the pauli exclusion principle and baryonic structure 
+2 local cohomology in field theory with applications to the einstein equations 
+5 universal spectral correlations of the dirac operator at finite temperature
+7 simplified calculation of boundary s matrices
+9 hidden algebras of the super calogero and sutherland models 
+8 the n 2 supersymmetric toda lattice and matrix models
+3 form factors of exponential fields in the affine a  1  n 1 toda model
+0 integrable dissipative structures in the gauge theory of gravity
+0 the semi infinite cohomology of affine lie algebras
+2 duality in potential curve crossing application to quantum coherence
+9 higher dimensional generalisations of the euler top equations
+0 moving frames hierarchy and bf theory
+4 degeneration of the elliptic algebra a q p  widehat sl 2  and form factors in the sine gordon theory 
+9 high speed contraction of transverse rotations to gauge transformations
+0 thermal instabilities and the  g  theorem 
+2 internal space time symmetries of massless particles and neutrino polarization as a consequence of gauge invariance
+6 strings on plane waves super yang mills in four dimensions quantum groups at roots of one 
+2 explicit factorization of seiberg witten curves with matter from random matrix models
+0 integrability in sft and new representation of kp tau function
+4 algebra of chiral currents on the physical surface
+6 study of the 2d ising model with mixed perturbation
+1 the principle of the fermionic projector iii normalization of the fermionic states 
+8 marginally stable topologically non trivial solitons in the gross neveu model
+9 gerbes  twisted k theory and the supersymmetric wzw model 
+8 microcausality and energy positivity in all frames imply lorentz invariance of dispersion laws
+3 geometric transitions del pezzo surfaces and open string instantons 
+6 on the existence of minima in the skyrme model
+1 noncommutative gerbes and deformation quantization 
+0 g structures and wrapped ns5 branes
+1 field theory results for three dimensional transitions with complex symmetries
+2 m theory on manifolds of g 2  holonomy the first twenty years 
+7 asymptotic interactions of critically coupled vortices
+8 spontaneous breaking of diffeomorphism invariance in matrix theory
+7 electromagnetic field from the skyrme term
+9 a sufficient criterion for integrability of stochastic many body dynamics and quantum spin chains
+3 singular centre in quantum mechanics as a black hole
+8 the geometry of d 11 killing spinors
+3 lightfront holography and area density of entropy associated with localization on wedge horizons
+1 penrose limits and maximal supersymmetry
+5 w infinity algebras from noncommutative chern simons theory
+8 relaxation in conformal field theory hawking page transition and quasinormal normal modes 
+7 description of identical particles via gauged matrix models  a generalization of the calogero sutherland system
+4 lie algebroids as gauge symmetries in topological field theories
+2 polynomials associated with equilibrium positions in calogero moser systems
+0 quantum mechanics on noncommutative riemann surfaces 
+1 kt and hkt geometries in strings and in black hole moduli spaces
+1 explicit su 5 monopole solutions
+3 discretized yang mills and born infeld actions on finite group geometries
+5 an eight dimensional approach to g 2 manifolds
+2 long lived oscillons from asymmetric bubbles 
+9 correlation functions of the xxz spin 1 2 heisenberg chain at the free fermion point from their multiple integral representations
+4 fermion induced quantum action of vortex systems
+9 an approach to  cal n 4 ade gauge theory on k3
+7 double scaling limit in random matrix models and a nonlinear hierarchy of differential equations
+8 the ode im correspondence and pt symmetric quantum mechanics 
+0 the star product on the fuzzy supersphere 
+9 inflationary theory versus ekpyrotic cyclic scenario
+0 time asymmetric quantum theory  ii relativistic resonances from s matrix poles
+8 inflation quantum cosmology and the anthropic principle 
+1 the wzw model on random regge triangulations
+0 new methods for two dimensional schr  odinger equation susy separation of variables and shape invariance 
+6 trace extensions determinant bundles and gauge group cocycles 
+4 general geometry and geometry of electromagnetism 
+2 inequivalent quantizations of the rational calogero model
+5 on correlation functions of characteristic polynomials for chiral gaussian unitary ensemble 
+7 new multicritical random matrix ensembles 
+3 the general coset orbifold action
+2 integrable aspects of the scaling q state potts models ii finite size effects 
+3 quasinormal modes of near extremal black branes
+5 spin spin correlation functions of the xxz 1 2 heisenberg chain in a magnetic field 
+2 time asymmetric quantum theory  iii decaying states and the causal poincare semigroup
+8 inflationary theory and alternative cosmology
+8 introducing lambdatensor1 0  a package for explicit symbolic and numeric lie algebra and lie group calculations 
+8 n 2 boundary conditions for non linear sigma models and landau ginzburg models
+3 quasi exact solvability of the pauli equation 
+2 quaternionic madelung transformation and non abelian fluid dynamics
+6 instanton number calculus on noncommutative r 4 
+9 a hint of renormalization
+5 modular localization of massive particles with  any  spin in d 2 1 
+4 the shimura taniyama conjecture and conformal field theory
+3  integrability  of rg flows and duality in three dimensions in the 1 n expansion 
+8 on momentum operator in quantum field theory
+7 interferometric evidence for brane world cosmologies
+0 supersymmetric calogero moser sutherland models superintegrability structure and eigenfunctions
+3 on the action principle in quantum field theory
+8 duality and conformal twisted boundaries in the ising model
+4 dirac operator on the riemann sphere
+4 phases in noncommutative quantum mechanics on pseudo sphere
+5 the paradigm of the area law and the structure of transversal and longitudinal lightfront degrees of freedom
+0 exciton in matrix formulation of quantum hall effect
+0 magnetic monopoles with generalized quantization condition
+0 large gauge invariance in nonabelian finite temperature effective actions
+7 multicharged dyonic integrable models
+9 spectral asymptotics of eigen value problems with non linear dependence on the spectral parameter 
+8 relativity of  hbar 
+7 semi classical mass of quantum k component topological kinks
+1 noncommutative 1 cocycle in the seiberg witten map
+6 d branes in landau ginzburg models and algebraic geometry 
+6 coulomb gas approach for boundary conformal field theory
+4 quantum integrability of sigma models on aii and cii symmetric spaces
+7 classical and quantum nambu mechanics
+9 special contact wilson loops
+5 sine gordon quantum field theory on the half line with quantum boundary degrees of freedom 
+0 intertwining relations for the matrix calogero like models supersymmetry and shape invariance
+7 geometric model for complex non kaehler manifolds with su 3 structure
+5 courant algebroids
+3 motion on the n dimensional ellipsoid under the influence of a harmonic force revisited 
+7 deformed defects
+6 holography principle and arithmetic of algebraic curves
+3 magnetic translation groups in an n dimensional torus 
+6 spectral asymmetry and supersymmetry
+9 rg study of a non local sine gordon model
+8 orientifolds and k theory
+6 on the theory of collisions between atoms and electrically charged particles
+1 quantum group symmetry and particle scattering in 2 1 dimensional quantum gravity
+1 the dynamics of vortices on s 2 near the bradlow limit
+1 massless d branes on calabi yau threefolds and monodromy
+6 the renormalisation bialgebra and operads
+2 on the unitarity problem in space time noncommutative theories
+3 higher symmetries of the laplacian
+9 quantum vs classical integrability in calogero moser systems
+8 noncommutative geometry extended w infty algebra and grassmannian solitons in multicomponent quantum hall systems 
+0 classification of c 2 rational conformal field theories via the gauss product
+5 the interaction energy of well separated skyrme solitons
+2 scattering in the presence of a reflecting and transmitting impurity 
+6 phenomenology of local scale invariance from conformal invariance to dynamical scaling
+6 on a low energy bound in a class of chiral field theories with solitons
+7 affine toda model coupled to matter and the string tension in qcd  2 
+6 complex curve of the two matrix model and its tau function
+1 a family of quasi solvable quantum many body systems 
+4 construction of supersymmetric nonlinear sigma models on noncompact calabi yau manifolds with isometry
+0 super oscillator on cp n and constant magnetic field 
+5 construction of exact riemannian instanton solutions
+8 supersymmetric field theoretic models on a supermanifold
+6 a note on noncommutative scalar multisolitons
+5 vortex correlation functions in maxwell chern simons models
+0 a quantum algebraic description of d branes on group manifolds
+0 exterior differentials in superspace and poisson brackets 
+7 insertion and elimination the doubly infinite lie algebra of feynman graphs
+2 mirror symmetry in generalized calabi yau compactifications
+4 chiral zero modes of the su n wess zumino novikov witten model 
+6 on yang mills instantons over multi centered gravitational instantons 
+0 borcherds symmetries in m theory
+2 matrix models of 4 dimensional quantum hall fluids
+6 type a n fold supersymmetry and generalized bender dunne polynomials 
+7 duality and fibrations on g 2 manifolds
+3 finite dimensional lie algebras of order f 
+3 the neveu schwarz and ramond algebras of logarithmic superconformal field theory
+3 second virial coefficient for noncommutative space
+1 domain walls in three field models
+8 topological open membranes
+7 covariant and quasi covariant quantum dynamics in robertson walker space times
+2 the classical supersymmetric coulomb problem
+2 determination of quantum symmetries for higher ade systems from the modular t matrix 
+0 elliptic fibrations and elliptic models
+2 a lax equation for the non linear sigma model
+7 on the open closed b model
+7 composite supersymmetries in low dimensional systems
+3 wzw branes and gerbes
+0 on the observability of quantum information radiated from a black hole
+0 on algebraic singularities finite graphs and d brane gauge theories a string theoretic perspective 
+8 tensor gauge fields in arbitrary representations of gl d r  duality  poincare lemma 
+8 supersymmetric kaluza klein reductions of m waves and mkk monopoles
+7 group contractions and its consequences upon representations of different spatial symmetry groups 
+2 topological field theories and geometry of batalin vilkovisky algebras
+7 large n expansion of the 2 matrix model
+9 discrete spectra of semirelativistic hamiltonians
+1 riemann surfaces separation of variables and classical and quantum integrability 
+6 separation of variables for the quantum sl 2 r spin chain 
+7 one loop surface tensions of supersymmetric kink domain walls from dimensional regularization
+6 higher dimensional quantum hall effect in string theory
+4 k matrices for 2d conformal field theories
+8 soliton spectrum of integrable models with local symmetries
+2 moduli spaces of discrete gravity i a few points
+4 two loop self dual euler heisenberg lagrangians i  real part and helicity amplitudes
+1 characteristic polynomials of complex random matrix models
+4 discrete space structure of the 3d wigner quantum oscillator
+2 a supersymmetric quantum field theory formulation of the donaldson polynomial invariants
+5 onsager s algebra and partially orthogonal polynomials
+3 poisson geometry of sigma models with extended supersymmetry
+7 overcoming nonrenormalizability
+3 deformation quantization of superintegrable systems and nambu mechanics
+9 duality in scalar field theory on noncommutative phase spaces 
+8 photon fields in a fluctuating spacetime
+5 optimization of the derivative expansion in the nonperturbative renormalization group
+1 a  2  2 parafermions a new conformal field theory
+0 statistical dynamics of global unitary invariant matrix models as pre quantum mechanics
+9 remarks on the exotic central extension of the planar galilei group
+1 hamiltonian quantization of chern simons theory with sl 2 c group 
+1 complex singularities of the critical potential in the large n limit 
+7 dolan grady relations and noncommutative quasi exactly solvable systems 
+3 integrable structures in string field theory 
+9 geometrical construction of heterogeneous loop amplitudes in 2d gravity
+7 peierls brackets in theoretical physics
+0 critical phi 4  3 epsilon  
+7 families of n 2 strings 
+4 emptiness formation probability of the xxz spin 1 2 heisenberg chain at delta 1 2
+6 counting bps states via holomorphic anomaly equations
+4 all loop topological string amplitudes from chern simons theory 
+6 radiation reaction for a massless charged particle
+7 w algebras for non abelian toda systems 
+9 non commutativity and supersymmetry
+4 noncompact heisenberg spin magnets from high energy qcd ii quantization conditions and energy spectrum
+3 long distance asymptotics of spin spin correlation functions for the xxz spin chain
+9 on the group structure of the kalb ramond gauge symmetry
+3 on the theory of coherent pair production in crystals in presence of acoustic waves 
+1 integrable aspects of the scaling q state potts models i bound states and bootstrap closure 
+6 exact s matrices for supersymmetric sigma models and the potts model
+8 mirror symmetry and deformation quantization 
+2 nonequilibrium dynamics of coupled quantum systems
+7 boundary states for wzw models
+5 four dimensional topological einstein maxwell gravity
+9 cohomology and decomposition of tensor product representations of sl 2 r 
+4 the partition function and level density for yang mills higgs quantum mechanics
+0 structures in feynman graphs hopf algebras and symmetries
+4 inequalities for trace anomalies length of the rg flow distance between the fixed points and irreversibility 
+9  new  veneziano amplitudes from  old  fermat hyper surfaces 
+6 chern simons theory matrix integrals and perturbative three manifold invariants 
+7 xx heisenberg spin chain and an example of path integral with  automorphic  boundary conditions 
+8 noncommutative geometry of angular momentum space u su 2 
+8 non kaehler string backgrounds and their five torsion classes
+1 final steps towards a proof of the riemann hypothesis 
+1 anomalous commutator algebra for conformal quantum mechanics
+8 twisted cft and bilayer quantum hall systems
+7 multi leg integrable ladder models
+3 high energy qcd stringy picture from hidden integrability
+6 higher symmetries of toda equations 
+6 emptiness formation probability and quantum knizhnik zamolodchikov equation 
+1 lattice models with n 2 supersymmetry
+4 calabi yau manifolds of cohomogeneity one as complex line bundles
+8 towards noncommutative integrable systems 
+2 n point and higher genus osp 1 2 fusion
+1 penrose limits supergravity and brane dynamics 
+9 lagrangian structures integrability and chaos for 3d dynamical equations 
+2 induced n 2 composite supersymmetry in 2 1 dimensions
+0 non canonical quantization of electromagnetic fields and the meaning of z 3 
+1 spatio temporal chaos and vacuum fluctuations of quantized fields
+8 non relativistic anyons exotic galilean symmetry and noncommutative plane 
+1 central configurations in three dimensions
+5 two loop self dual euler heisenberg lagrangians ii  imaginary part and borel analysis
+6 thurston geometries from eleven dimensions 
+9 on decay of k theory
+1 on the geometry and mass of static asymptotically ads spacetimes and the uniqueness of the ads soliton 
+8 finite temperature corrections in 2d integrable models
+7 nonlinear holomorphic supersymmetry on riemann surfaces
+6 graded parafermions standard and quasi particle bases
+9 new classical limits of quantum theories 
+2 dirac equation in the magnetic solenoid field
+2 d branes in n 2 wzw models
+2 to see a world in a grain of sand
+4 d objects kinematics on smooth manifolds
+9 holonomy on d branes
+9 zeta function regularization and the interacting bose gas at low temperature
+9 exact solutions and the cosmological constant problem in dilatonic domain wall higher curvature string gravity
+6 simple dynamics on the brane
+9 instanton number of noncommutative u n gauge theory
+6 the solution of a chiral random matrix model with complex eigenvalues
+9 spectral asymmetry for bag boundary conditions
+4 jack polynomials in superspace 
+0 d branes tachyons and k homology 
+5 bogomolny yang mills higgs solutions in 2 1 anti de sitter space
+6 dynamical r matrices and poisson lie symmetries in the chiral wznw model 
+4 lie algebras of order f and extensions of the poincar e algebra 
+7 ultralocal solutions for quantum integrable nonultralocal models
+0 on the sutherland spin model of b n type and its associated spin chain 
+9 noncommutative gravity in three dimensions coupled to point like sources
+7 on the gauge orbit space stratification a review 
+5 algebraic bethe ansatz for a quantum integrable derivative nonlinear schrodinger model
+1 the thermal energy of a scalar field in a one dimensional compact space
+1 alternative dimensional reduction via the density matrix a test
+43 chern simons gauge theory coupled with bf theory
+47 generating lie and gauge free differential super algebras by expanding maurer cartan forms and chern simons supergravity 
+28 a new class of matrix models arising from the w infinity algebra
+39 on the fedosov deformation quantization beyond the regular poisson manifolds
+68 the translocal depth structure of space time connes  points speaking to each other  and the complex structure of quantum theory 
+60 equivalence postulate and the quantum potential of two free particles
+15 topologizations of chiral representations 
+30 partially flat gauge fields on manifolds of dimension greater than four
+59 the appearence of the resolved singular hypersurface x 0 x 1  x 2 n  0 in the classical phase space of the lie group su n 
+59 the principle of the fermionic projector ii derivation of the effective gauge group 
+30 any compact group is a gauge group 
+61 ds cft and spacetime topology
+85 liouville field theory coupled to a critical ising model non perturbative analysis duality and applications 
+07 supersymmetric kaluza klein reductions of m2 and m5 branes
+35 quantum field theory and representation theory a sketch
+84 generalized zeta functions and one loop corrections to quantum kink masses
+60 non symplectic symmetries and bi hamiltonian structures of the rational harmonic oscillator 
+66 instanton expansion of noncommutative gauge theory in two dimensions
+56 two large examples in orbifold theory abelian orbifolds and the charge conjugation orbifold on su n 
+37 geometric transformations and nccs theory in the lowest landau level
+77 novel construction of boundary states in coset conformal field theories
+30 a  periodic table  for supersymmetric m theory compactifications 
+17 on the structure of the nonlinear vacuum solutions in extended electrodynamics
+84 deligne cohomology for orbifolds discrete torsion and b fields 
+40 novel quantum states of the rational calogero models without the confining interaction
+68 non commutative finsler geometry from string m theory 
+23 ginsparg wilson relation topological invariants and finite noncommutative geometry 
+51 soliton dynamics in a 2d lattice model with nonlinear interactions
+92 elliptic families of solutions of the kadomtsev petviashvili equation and the field elliptic calogero moser system
+21 on the representation theory of negative spin
+33 twisted conformal algebra so 4 2 
+15 conformal field theories of stochastic loewner evolutions 
+95 non commutative geometry of 4 dimensional quantum hall droplet
+13 seiberg witten curve for e string theory revisited
+24 duality and self duality energy reflection symmetry of quasi exactly solvable periodic potentials
+59 large scale correlations in normal and general non hermitian matrix ensembles
+40 nonabelian braid statistics versus projective permutation statistics
+59 chern simons term for bf theory and gravity as a generalized topological field theory in four dimensions
+43 confined quantum fields under the influence of a uniform magnetic field
+10 chern character in twisted k theory equivariant and holomorphic cases
+45 enumerative geometry and knot invariants 
+70 on classical electrodynamics in odd dimensional worlds
+12 the moduli space of bps domain walls
+32 free field realisation of boundary states and boundary correlation functions of minimal models
+53 on angular momentum operator in quantum field theory
+27 lienard wiechert potentials of a non abelian yang mills charge
+58 dirac s magnetic monopoles again 
+48 tft construction of rcft correlators i partition functions
+81 normal coordinates in kahler manifolds and the background field method
+89 regular poisson structures on massive non rotating btz black holes
+14 hopf symmetry breaking and confinement in 2 1 dimensional gauge theory 
+74 monstrous branes
+97 dirac operators on coset spaces 
+89 maximally supersymmetric solutions of ten and eleven dimensional supergravities
+14 bv quantization of topological open membranes
+43 non abelian fluid dynamics in lagrangian formulation 
+34 asymptotics of 6j and 10j symbols
+31 matrix models as non local hidden variables theories
+69 noncompact heisenberg spin magnets from high energy qcd iii quasiclassical approach
+51 spectroscopy of gauge theories based on exceptional lie groups 
+44 quantum anomaly in molecular physics 
+35 bosonic realization of algebras in the calogero model
+66 ellipsoidal black hole  black tori systems in 4d gravity 
+97 models wd n in the presence of disorder and the coupled models
+40 the coefficients of the seiberg witten prepotential as intersection numbers  
+93 homology of fortuin kasteleyn clusters of potts models on the torus
+50 scaling fields in the two dimensional abelian sandpile model
+43 superconnections anomalies and non bps brane charges 
+76 poincare invariance of hamiltonian semiclassical field theory
+44 testing non commutative qed constructing non commutative mhd 
+16 gauge theoretical construction of non compact calabi yau manifolds
+66 on susy qm fractal strings and steps towards a proof of the riemann hypothesis 
+26 lectures on the functional renormalization group method
+41 calogero moser models with noncommutative spin interactions 
+14 a new kind of mckay correspondence from non abelian gauge theories
+07 jack superpolynomials superpartition ordering and determinantal formulas 
+00 landau levels in the noncommutative ads 2 
+75 cohomology of the variational complex in brst theory
+92 infinitely many star products to play with 
+32 wick type deformation quantization of fedosov manifolds
+65 twisted parafermions 
+68 orthogonal basis for the energy eigenfunctions of the chern simons matrix model
+98 some navigation rules for d brane monodromy
+58 on the high derivative fermionic operator and trace anomaly
+06 lump scattering on a torus
+85 noncommutative field theory and the dynamics of quantum hall fluids
+41 physically inspired analysis of prime number constellations
+34 renormalization group equations and the lifshitz point in noncommutative landau ginsburg theory
+71 d brane stability and monodromy
+65 some remarks on unilateral matrix equations
+34 lie superalgebra stability and branes
+30 boundary states in coset conformal field theories
+50 from pcm to kdv and back
+58 construction of bosons and fermions out of quons
+28 on the globalization of kontsevich s star product and the perturbative poisson sigma model
+66 chern simons theory and bcs superconductivity
+90 new spin calogero sutherland models related to b n type dunkl operators 
+44 evaluation of integrals representing correlations in xxx heisenberg spin chain 
+13 on the statistical origin of topological symmetries
+16 discrete noncommutative gauge theory
+11 a toy model of bosonic non canonical quantum field
+54 d branes on noncompact calabi yau manifolds k theory and monodromy
+50 cech dolbeault and de rham cohomologies in chern simons and bf theories 
+97 modular transformation and boundary states in logarithmic conformal field theory
+44 spectra in standard like z 3 orbifold models
+08 poisson sigma models and deformation quantization
+15 geometry of the gauge algebra in noncommutative yang mills theory 
+14 hamiltonian frenet serret dynamics
+58 conformal boundary conditions and 3d topological field theory
+02 a braided yang baxter algebra in a theory of two coupled lattice quantum kdv algebraic properties and aba representations 
+64 the fuzzy analog of chiral diffeomorphisms in higher dimensional quantum field theories
+11 quantum hall states on the cylinder as unitary matrix chern simons theory
+67 inverse scattering the coupling constant spectrum and the riemann hypothesis 
+05 hierarchy of dirac pauli and klein gordon conserved operators in taub nut background 
+34 a simple method to make asymptotic series of feynman diagrams converge
+30 finite temperature induced fermion number
+51 internal space time symmetries of massive and massless particles and their unification
+66 integrability in fluid dynamics
+20 fuzzy complex grassmannian spaces and their star products
+24 particle description of zero energy vacuum i virtual particles
+59 renormalization group method applied to kinetic equations roles of initial values and time
+18 torsion d branes in nongeometrical phases
+97 lucas polynomials and a standard lax representation for the polytropic gas dynamics
+21 the existence and stability of noncommutative scalar solitons
+01 non existence of f symbols in generalized taub nut spacetimes
+48 generalized sine gordon massive thirring models and soliton particle correspondences 
+47 derived categories and zero brane stability
+29 resolution of stringy singularities by non commutative algebras
+92 pythagoras theorem on a 2d lattice from a  natural  dirac operator and connes distance formula 
+24 gauge theoretic approach to fluid dynamics
+21 solvability of the f 4 integrable system 
+00 open string instantons and relative stable morphisms
+19 supersymmetry and the spontaneous breakdown of pt symmetry 
+30 scalar symmetries of the hubbard models with variable range hopping
+69 on a z 3 graded generalization of the witten index
+64 universal lax pairs for spin calogero moser models and spin exchange models 
+63 geometric pre quantization in the polysymplectic approach to field theory 
+07 weierstrass p lumps
+10 vector bundles and lax equations on algebraic curves
+57 spectrum of a duality twisted ising quantum chain
+44 a universal amplitude ratio for the q 4 potts model from a solvable lattice model
+56 the quantum spheres and their embedding into quantum minkowski space time
+94 anisotropic scaling and generalized conformal invariance at lifshitz points 
+06 fractional supersymmetry and infinite dimensional lie algebras 
+15 boundary remnant of yangian symmetry and the structure of rational reflection matrices 
+51 twisted k theory in g 1 from d branes 
+21 time asymmetric boundary conditions and the definition of mass and width for relativistic resonances
+46 impulse action on d particles in robertson walker space times higher order logarithmic conformal algebras and cosmological horizons 
+03 orbital magnetism of two dimension noncommutative confined system
+49 spectrum of schroedinger field in a noncommutative magnetic monopole 
+26 negative probability and uncertainty relations
+41 hyperkahler metrics from periodic monopoles
+27 noncommutative field theory description of quantum hall skyrmions
+30 noncommutative geometry of lattice and staggered fermions
+95 renormalization and essential singularity
+88 area law for localization entropy in local quantum physics
+78 regularized green s function for the inverse square potential
+63 graded lagrangians exotic topological d branes and enhanced triangulated categories 
+59 normal coordinates and primitive elements in the hopf algebra of renormalization 
+25 kink dynamics in a topological phi 4 lattice
+22 bound states in one dimensional quantum n body systems with inverse square interaction 
+47 algebraic geometry in discrete quantum integrable model and baxter s t q relation 
+85 d branes matrix theory and k homology 
+58 nonlinear holomorphic supersymmetry dolan grady relations and onsager algebra 
+05 quasiclassical expansion for tr  1 f exp  beta h 
+70 a uniqueness theorem for the ads soliton
+03 path integral treatment of singular problems and bound states quantum mechanics
+79 n fold supersymmetry in quantum mechanics  analyses of particular models 
+39 classical and quantum polyhedra a fusion graph algebra point of view 
+20 expectation values of descendent fields in the bullough dodd model and related perturbed conformal field theories 
+44 free field construction for the eight vertex model representation for form factors 
+60 on associativity equations in dispersionless integrable hierarchies
+25 nonlocal noncommutative picture in quantum mechanics and distinguished canonical maps 
+54 broken supersymmetric shape invariant systems and their potential algebras
+67 sklyanin bracket and deformation of the calogero moser system 
+20 a new class of two dimensional noncommutative spaces
+23 supersymmetric polytropic gas dynamics
+57 non local thirring model with backward and umklapp interactions
+41 a new approach to the complex action problem and its application to a nonperturbative study of superstring theory
+08 quantum inozemtsev model quasi exact solvability and n fold supersymmetry 
+01 twisted partition functions for ade boundary conformal field theories and ocneanu algebras of quantum symmetries 
+88 holomorphic potentials for graded d branes
+16 dirac spinor waves and solitons in anisotropic taub nut spaces
+87 classification of conformal field theories based on coulomb gases application to loop models
+90 fractional helicity lorentz symmetry breaking compactification and anyons 
+89 poisson structures in brst antibrst invariant lagrangian formalism
+84 supersymmetric nonlinear sigma models on ricci flat kahler manifolds with o n symmetry
+77 integrable structure of w 3 conformal field theory quantum boussinesq theory and boundary affine toda theory 
+97 hierarchies of spin models related to calogero moser models 
+55 scaling functions from q deformed virasoro characters
+46 multi instanton measure from recursion relations in n 2 supersymmetric yang mills theory 
+23 casimir energy for spherically symmetric dispersive dielectric media
+78 supersymmetric calogero moser sutherland models and jack superpolynomials 
+70 the fuzzy sphere star product and spin networks
+63 properties of moyal lax representation
+75 coupling integrable field theories to mechanical systems at the boundary
+42 a new maximally supersymmetric background of iib superstring theory
+06 orbifold constructions of k3 a link between conformal field theory and geometry
+24 the elliptic gaudin system with spin
+04 conformal orbifold partition functions from topologically massive gauge theory
+66 double elliptic dynamical systems from generalized mukai  sklyanin algebras
+84 holography transplantation and all that the tip of an iceberg for a paradigmatic change in qft 
+86 deformation of bf theories topological open membrane and a generalization of the star deformation 
+82 integrable lattice realizations of conformal twisted boundary conditions
+63 correction induced by irrelevant operators in the correlators of the 2d ising model in a magnetic field
+87 cp n model on fuzzy sphere
+20 fractional supersymmetry and f fold lie superalgebras 
+92 non associative loops for holger bech nielsen
+92 solutions of the wdvv equations and integrable hierarchies of kp type 
+42 alternative dimensional reduction via the density matrix
+40 frenet serret dynamics
+43 two dimensional gauge theories of the symmetric group s n in the large n limit 
+17 collaborating with david gross descendants of the chiral anomaly
+20 loop symmetry of integrable vertex models at roots of unity 
+56 integrable hierarchy for multidimensional toda equations and topological anti topological fusion 
+61 n 1 supersymmetric sigma model with boundaries i 
+53 perturbation theory for bound states and resonances where potentials and propagators have arbitrary energy dependence
+09 classical to critical crossovers from field theory
+08 complex angular momentum diagonalization of the bethe salpeter structure in general quantum field theory
+78 exact form factors in integrable quantum field theories the sine gordon model ii 
+49 deformation quantization of geometric quantum mechanics 
+79 form factors of soliton creating operators in the sine gordon model
+08 spontaneous breaking of the c p and rotational symmetries by topological defects in two extra dimensions 
+36 covariant thermodynamics of quantum systems passivity semipassivity and the unruh effect 
+75 anholonomic frames generalized killing equations and anisotropic taub nut spinning spaces 
+18 conformal gaussian approximation
+29 gauge fixing semiclassical approximation and potentials for graded chern simons theories 
+09 twisted sl 3  bf c   2  k current algebra free field representation and screening currents 
+75 open string gromov witten invariants calculations and a mirror  theorem  
+66 exploring the vicinity of the bogomol nyi prasad sommerfield bound
+10 noncommutative line bundle and morita equivalence 
+06 dirac operator on the quantum sphere
+03 lightfront formalism versus holography chiral scanning
+25 selected topics in integrable models
+79 quantum hall physics  noncommutative field theory
+07 the universal gerbe dixmier douady class and gauge theory 
+50 a new method of constructing black hole solutions in einstein and 5d gravity 
+05 the operator algebra and twisted kz equations of wzw orbifolds 
+16 algebraic solution for the vector potential in the dirac equation
+44 a theory of algebraic integration 
+27 the bisognano wichmann theorem for massive theories
+48 integrable structure of the dirichlet boundary problem in two dimensions 
+80 noncommutative solitons on kahler manifolds 
+73 the nu 5 2 quantum hall state revisited spontaneous breaking of the chiral fermion parity and phase transition between abelian and non abelian statistics
+63 parafermionic quasi particle basis and fermionic type characters 
+23 planar dirac electron in coulomb and magnetic fields a bethe ansatz approach 
+79 spontaneous symmetry breaking in the gl n nls hierarchy on the half line 
+57 physical instances of noncommuting coordinates 
+11 elongated u 1 instantons on noncommutative r 4 
+59 generalized lattice gauge theory spin foams and state sum invariants 
+13 quantum hall states as matrix chern simons theory
+74 poisson geometry in constrained systems
+23 energy bounds for the spinless salpeter equation
+03 the multi field complex bateman equation
+28 coherent states for generalized laguerre functions
+19 nonassociative star product deformations for d brane worldvolumes in curved backgrounds 
+62 quantum field theory on noncommutative spaces 
+02 twisted vortices in a gauge field theory
+89 statistical mechanics gravity and euclidean theory 
+39 a n type dunkl operators and new spin calogero sutherland models 
+08 quantum spin chains and riemann zeta function with odd arguments 
+52 on interpretations and constructions of classical dynamical r matrices 
+40 fusion multiplicities as polytope volumes n point and higher genus su 2 fusion 
+22 aging phase ordering and conformal invariance 
+81 exact solution of the harmonic oscillator in arbitrary dimensions with minimal length uncertainty relations
+79 math and physics
+36 conformal field theories graphs and quantum algebras 
+30 bound states and glueballs in three dimensional ising systems
+79 noncommutative differential geometry and classical field theory on finite groups
+37 new solutions of relativistic wave equations in magnetic fields and longitudinal fields
+78 the sl 2  sl 2  sl 2 coset theory as a hamiltonian reduction of d 2 1 alpha 
+28 effective finite temperature partition function for fields on non commutative flat manifolds 
+90  gauging  the fluid 
+37 the world in eleven dimensions a tribute to oskar klein
+78 new insights in particle dynamics from group cohomology
+97 the 8k 3 instanton 
+63 on integrable hamiltonians for higher spin xxz chain
+30 adelic path integrals for quadratic lagrangians
+76 renormalized path integral for the two dimensional delta function interaction
+11 dirac connes operator on discrete abelian groups and lattices
+41 the instanton universal moduli space of n 2 supersymmetric yang mills theory 
+18 geometric construction of new yang mills instantons over taub nut space 
+98 remarks on a branes mirror symmetry and the fukaya category 
+12 warped solitonic deformations and propagation of black holes in 5d vacuum gravity 
+04 superhydrodynamics
+22 covariant coordinate transformations on noncommutative space
+62 string field theory and brane superpotentials 
+24 exact spectra of conformal supersymmetric nonlinear sigma models in two dimensions
+50 the exceptional jordan algebra and the matrix string
+36 analytic continuation of the hurwitz zeta function with physical application
+93 noncompact heisenberg spin magnets from high energy qcd i baxter q operator and separation of variables
+22 minimal representations spherical vectors and exceptional theta series i 
+35 nonlinear supersymmetry on the plane in magnetic field and quasi exactly solvable systems
+51 spectral equivalences bethe ansatz equations and reality properties in pt symmetric quantum mechanics 
+53 a thick shell casimir effect
+94 on the level dependence of wess zumino witten three point functions
+10 quantum energies of interfaces
+64 non perturbative gauge groups and local mirror symmetry
+91 supersymmetric moyal lax representations
+63 relativistic gamow vectors i derivation from poles of the s matrix
+13 fusion bases as facets of polytopes 
+96 isomonodromy equations on algebraic curves canonical transformations and whitham equations 
+17 z 2 times z 2 lattice as a connes lott quantum group model
+64 field theory on the q deformed fuzzy sphere ii quantization
+58 duality and integrability of two dimensional string effective action
+19 on the rational solutions of the su 2 k knizhnik zamolodchikov equation 
+59 d brane dynamics and logarithmic superconformal algebras
+48 bps kinks in the gross neveu model
+11 higher u 2 2 spin fields and higher dimensional w gravities quantum ads space and radiation phenomena 
+61 hypermultiplets hyperkahler cones and quaternion kahler geometry 
+43 integrable structure behind wdvv equations 
+36 aspects of noncommutative descriptions of planar systems in high magnetic fields
+18 discrete fields general relativity other possible implications and experimental evidences 
+04 quantum field theory for orthofermions and orthobosons
+20 discrete spectra of semirelativistic hamiltonians from envelope theory
+14 multi lagrangians for integrable systems
+45 warped anisotropic wormhole soliton configurations in vacuum 5d gravity 
+29 particle description of zero energy vacuum ii basic vacuum systems
+19 canonical differential calculi for finitely generated abelian group and their fermionic representations
+47 higgs bundles and four manifolds
+95 fast roll inflation
+80 unitary representations of u q  mathfrak sl 2 rr   the modular double and the multiparticle q deformed toda chains 
+66 the world sheet revisited
+94 twisted k theory and k theory of bundle gerbes
+33 noncommutative cohomological field theory and gms soliton 
+82 an exact universal amplitude ratio for percolation
+23 quantum group symmetry in sine gordon and affine toda field theories on the half line
+21 exceptional boundary states at c 1
+66 uniqueness of inverse scattering problem in local quantum physics
+94 flows on quaternionic kaehler and very special real manifolds
+04 mirror symmetry on kummer type k3 surfaces
+40 baxter s t q relation and bethe ansatz of discrete quantum pendulum and sine gordon model 
+22 generalized complexes and string field theory
+54 a non reductive n 4 superconformal algebra
+72 free q deformed relativistic wave equations by representation theory
+54 notes from the underground a propos of givental s conjecture
+84 ricci flat kahler manifolds from supersymmetric gauge theories
+70 generalised supersymmetric fluxbranes
+05 moduli spaces and brane solitons for m theory compactifications on holonomy g 2 manifolds
+70 adhm nahm construction of localized solitons in noncommutative gauge theories 
+09  1 2 1 2 representation space an ab initio construct 
+63 graded chern simons field theory and graded topological d branes 
+63 finite group discretization of yang mills and einstein actions
+39 an analytic torsion for graded d branes
+99 fuzzy complex projective spaces and their star products
+05 boundary conformal field theory and fusion ring representations
+15 geometry of generalized coherent states  some calculations of chern characters
+94 normal frames for linear connections in vector bundles and the equivalence principle in classical gauge theories
+14 integrability and conformal symmetry in the bcs model 
+60 yang mills integrals
+77 hopf algebras in noncommutative geometry
+24 derivation of transport equations using the time dependent projection operator method
+53 quadratic algebra associated with rational calogero moser models 
+53 y systems and generalized associahedra 
+03 generalized fock spaces and new forms of quantum statistics
+06 e6 matrix model
+34 integrable sigma models and perturbed coset models
+00 a note on conifolds
+72 nonperturbative operator quantization of strongly nonlinear fields
+76 macroscopic properties of a statistics
+87 affine su 3 and su 4 fusion multiplicities as polytope volumes
+78 confinement and soliton solutions in the sl 3 toda model coupled to matter fields 
+55 conformal field theory interpretation of black hole quasi normal modes
+84 black tori solutions in einstein and 5d gravity 
+74 aspects of the q deformed fuzzy sphere
+23 purely affine elementary su n fusions
+23 fuzzy cp2
+48 exact one loop thermal free energies of solitons
+64 framed knots at large n
+52 chaotic strings and standard model parameters
+09 on gauge invariance of noncommutative chern simons theories
+89 finite temperature behavior of the 3d polyakov model with massless quarks
+51 the geometry of quantum mechanics 
+22 the quantum geometry of supersymmetry and the generalized group extension problem
+29 fibrewise t duality for d branes on elliptic calabi yau
+46 fusion rules and logarithmic representations of a wzw model at fractional level
+26 new relations in the algebra of the baxter q operators 
+84 construction formulae for singular vectors of the topological and of the ramond n 2 superconformal algebras 
+15 path integrals on riemannian manifolds with symmetry and stratified gauge structure 
+11 wigner quantum systems lie superalgebraic approach 
+81 bethe ansatz solution of the open xx spin chain with nondiagonal boundary terms
+45 the character of the principal series of representations of the real unimodular group
+23 quantum effective action from the ads cft correspondence
+05 quantum irreversibility in arbitrary dimension
+37 quantum anti de sitter space and sphere at roots of unity
+11 relative entropy for compact riemann surfaces
+14 a generalized shannon sampling theorem fields at the planck scale as bandlimited signals 
+14 noncommutative gauge fields on poisson manifolds 
+17 towards a nonperturbative path integral in gauge theories
+04 on infinite quon statistics and  ambiguous  statistics 
+69 soliton s matrices for the critical a n 1  1 chain
+90 shuffling quantum field theory
+05 bosonization at finite temperature and anyon condensation
+55 effects of dirac s negative energy sea on quantum numbers
+18 semi hopf algebra and supersymmetry 
+59 fermionic representations for characters of m 3 t  m 4 5  m 5 6 and m 6 7 minimal models and related rogers ramanujan type and dilogarithm identities 
+78 descendant gromov witten invariants simple hurwitz numbers and the virasoro conjecture for p 1 
+71 renormalizability and the scalar field
+29 vacuum structure in supersymmetric yang mills theories with any gauge group 
+60 unsharp degrees of freedom and the generating of symmetries 
+09 cohomological field theories with k  ahler structure 
+10 liouville bootstrap via harmonic analysis on a noncompact quantum group
+88 universality and conformal invariance for the ising model in domains with boundary
+50 large n yang mills theory as classical mechanics
+64 noncommutative geometry and string duality 
+58 symplectic reduction of p form electrodynamics
+46 a lie group structure underlying the triplectic geometry 
+33 discrete gauge fields
+23 exact solution of the six vertex model on a random lattice
+02 differential equations and integrable models the su 3 case
+75 group approach to quantization of yang mills theories a cohomological origin of mass
+28 boundary dynamics of higher dimensional ads spacetime
+51 holomorphic anomaly equation and bps state counting of rational elliptic surface
+44 lessons from quantum field theory  hopf algebras and spacetime geometries 
+32 nonstandard coproducts and the izergin korepin open spin chain
+22 non local symmetries of nonlinear field equations an algebraic approach 
+02 lax pairs and spectral curves for calogero moser and spin calogero moser systems
+42 algebraic construction of quantum integrable models including inhomogeneous models
+65 short distance behaviour of correlators in the 2d ising model in a magnetic field
+19 kostant s cubic dirac operator of lie superalgebras
+25 braided quantum field theory
+26 noncommutative string theory the r matrix and hopf algebras 
+20 on the bracket problem in covariant hamiltonian field theory
+91 bicovariant calculus in quantum theory and a generalization of the gauss law
+90 tiling the plane without supersymmetry 
+50 highest weight representations of the n 1 ramond algebra 
+26 beyond cft  deformed virasoro and elliptic algebras
+10 universal procedure for enforcing quantum constraints
+30 hidden nonlinear supersymmetries in pure parabosonic systems
+59 non commutative gravity from the ads cft correspondence
+83 on the singular spectrum of the almost mathieu operator arithmetics and cantor spectra of integrable models
+04 bps states and vacuum manifold of su q n georgi glashow model 
+24 duality in integrable systems and generating functions for new hamiltonians
+31 a non fock fermion toy model
+61 computation of lickorish s three manifold invariants using chern simons theory
+38 dirac functional determinants in terms of the eta invariant and the noncommutative residue 
+71 affine sl 2 1 and d 2 1 alpha as vertex operator extensions of dual affine sl 2 algebras
+31 looking beyond the thermal horizon hidden symmetries in chiral models
+28 vertex operators semiclassical limit for soliton s matrices and the number of bound states in affine toda field theories 
+72 recursive graphical construction of feynman diagrams in phi 4 theory asymmetric case and effective energy
+40 calculating the infrared central charges for perturbed minimal models improving the rg perturbation
+16 critical amplitudes and mass spectrum of the 2d ising model in a magnetic field
+16 topology of non topological chern simons vortices
+63 determinant formula for the topological n 2 superconformal algebra 
+67 landau siegel zeroes and black hole entropy
+08 backlund transformations in 10d susy yang mills theories 
+73 on the chiral wznw phase space exchange r matrices and poisson lie groupoids 
+46 chiral extensions of the wznw phase space poisson lie symmetries and groupoids 
+36 sigma models as perturbed conformal field theories
+71 what good are quantum field theory infinities 
+20 a condensation of interacting bosons in two dimensional space 
+19 topological quantum field theories  a meeting ground for physicists and mathematicians
+01 equivalence principle higher dimensional moebius group and the hidden antisymmetric tensor of quantum mechanics 
+97 field theories of topological random walks 
+32 geometrical approach to feynman integrals and the epsilon expansion
+12 generalized abelian coset conformal field theories 
+37 the geometry of branes and extended superspaces
+03 non local conservation laws and flow equations for supersymmetric integrable hierarchies
+57 chern simons gauge theory ten years after
+03 formulas for a n and b n solutions of wdvv equations 
+29 on the concept of determinant for the differential operators of quantum physics 
+29 fractons and fractal statistics
+81 superconformal algebras on the boundary of ads 3
+41 toroidal solitons in 3 1 dimensional integrable theories 
+09 pure spinor formalism for conformal fermion and conserved currents
+78 the second law of thermodynamics tcp and einstein causality in anti de sitter space time 
+60 quantum gravitodynamics
+93 dyons and interactions in nonlinear born infeld electrodynamics 
+24 whitham deformations and tau functions in n  2 supersymmetric gauge theories 
+29 non abelian stokes theorem and quark confinement in su 3 yang mills gauge theory
+66 the character of the exceptional series of representations of su 1 1 
+49 casimir effect the classical limit
+65 a new look at the schouten nijenhuis fr  olicher nijenhuis and nijenhuis richardson brackets for symplectic spaces 
+87 quantum field theory of topological defects as inhomogeneous condensates
+02 calogero moser models iv limits to toda theory 
+47 replica deformation of the su 2 invariant thirring model via solutions of the qkz equation
+79 quantum electrodynamics with the pauli term
+33 calogero moser models v supersymmetry and quantum lax pair 
+98 magnetic confinement in qcd
+53 solution of the quantum inverse problem 
+20 generalization of calabi yau landau ginzburg correspondence
+75 on the duffin kemmer petiau formulation of the covariant hamiltonian dynamics in field theory
+27 equivalence of the sutherland model to free particles on a circle 
+67 exact spectrum and partition function of su m n supersymmetric polychronakos model 
+30 space time symmetry transformations of elementary particles realized in optics laboratories
+83 d branes on group manifolds and deformation quantization
+65 donaldson invariants of product ruled surfaces and two dimensional gauge theories
+95 finite temperature effective action in monopole background
+82 hyperkahler quotients and algebraic curves 
+28 casimir energies for spherically symmetric cavities 
+74 the spin statistics connection in quantum gravity
+08 discrete torsion and gerbes i
+13 relativistic gamow vectors ii
+84 integrable 2d lorentzian gravity and random walks
+70 yang lee zeros of the ising model on random graphs of non planar topology
+89 eigenvalue dynamics and the matrix chain
+21 new concepts in particle physics from solution of an old problem
+59 semigroup representations of the poincare group and relativistic gamow vectors
+04 chern simons solitons in quantum potential
+06 more series related to the euler series
+52 nonlinear sigma model approach for phase disorder transitions and the pseudogap phase in chiral gross neveu nambu jona lasinio models and strong coupling superconductors 
+12 classical wakimoto realizations of chiral wznw bloch waves 
+71 structure constants for new infinite dimensional lie algebras of u n n  tensor operators and applications 
+65 integral representation for the eigenfunctions of quantum periodic toda chain 
+40 constructing d branes from k theory 
+26 thermodynamics of fateev s models in the presence of external fields
+21 a note concerning subsingular vectors and embedding diagrams of the n 2 superconformal algebras 
+93 combinatoric explosion of renormalization tamed by hopf algebra 30 loop pade borel resummation
+46 on the finiteness of a new topological model in d 3
+50 automorphism group of k t   applications to the bosonic string
+45 boundary breathers in the sinh gordon model
+26 renormalization in quantum field theory and the riemann hilbert problem 
+51 gauge fields in a discrete approach
+87 strings noncommutative geometry and the size of the target space 
+31 noncommutative spacetime and the fractional quantum hall effect
+38 geometrical evaluation of star products 
+61 genuine dyons in born infeld electrodynamics
+36 quantum topology change in 2  1 d
+47 instantons on noncommutative r 4 and projection operators
+39 supersymmetric nonlinear sigma models as gauge theories
+85 symplectic dirac k  ahler fields 
+46 local mirror symmetry at higher genus
+30 symmetry algebras of quantum matrix models in the large n limit 
+10 two body mass shell constraints in a constant magnetic field neutral case 
+07 functorial qft gauge anomalies and the dirac determinant bundle 
+89 anomalies in string theory with d branes
+68 integrable theories in any dimension a perspective 
+05 yangian symmetry in the non linear schrodinger hierarchy 
+79 exact static soliton solutions of 3 1 dimensional integrable theory with nonzero hopf numbers 
+53 local mirror symmetry calculations and interpretations
+06 a finite dimensional gauge problem in the wznw model 
+38 plateaux transitions from s matrices based on sl 2 z invariant field theories 
+30 on the quantum inverse scattering problem 
+76 exclusion statistics in conformal field theory and the ucpf for wzw models 
+36 strongly coupled lattice gauge theories and antiferromagnetic spin systems
+50 coupling of vector fields at high energies
+50 the chiral wznw phase space and its poisson lie groupoid 
+30 from large n matrices to the noncommutative torus 
+33 on the integrability of a class of monge ampere equations
+82 asymptotic form of zero energy wave functions in supersymmetric matrix models
+72 creation and evolution of magnetic helicity
+82 angular quantization of the sine gordon model at the free fermion point 
+02 graded kms functionals and the breakdown of supersymmetry
+68 on the constraints defining bps monopoles 
+39 correlation functions and boundary conditions in rcft and three dimensional topology
+60 a review of symmetry algebras of quantum matrix models in the large n limit 
+49 a universal disentangling formula for coherent states of perelomov s type
+51 rigid and gauge noether symmetries for constrained systems
+39 a note on decoupling conditions for generic level  hat sl 3 k and fusion rules
+00 facts and fictions about anti desitter spacetimes with local qantum matter
+24 fluid dynamical profiles and constants of motion from d branes 
+92 renormalization in quantum field theory and the riemann hilbert problem i the hopf algebra structure of graphs and the main theorem 
+62 chiral observables and modular invariants 
+13 eisenstein series and string thresholds
+20 discrete torsion and gerbes ii
+48 comment on  on spin 1 massive particles coupled to a chern simons field 
+57 generalized statistics in one dimension
+25 on the universal representation of the scattering matrix of affine toda field theory
+23 regularized casimir energy for an infinite dielectric cylinder subject to light velocity conservation
+42 non abelian stokes theorem and quark confinement in su n yang mills gauge theory
+07 fermionic path integrals and two dimensional ising model with quenched site disorder
+03 violation of the string hypothesis and heisenberg xxz spin chain
+34 ads calibrations
+47 conformal maps and dispersionless integrable hierarchies
+49 supersymmetry of parafermions 
+14 airy functions in the thermodynamic bethe ansatz 
+06 gauge transformation properties of vector and tensor potentials revisited a group quantization approach
+02 zitterbewegung and reduction 4d spinning particles and 3d anyons on light like curves 
+53 brane descent relations in k theory 
+16 spinors on manifolds with boundary aps index theorems with torsion
+67 a hiker s guide to k3  aspects of n 4 4 superconformal field theory with central charge c 6 
+11 solitons superpotentials and calibrations 
+66 direct calculation of breather s matrices
+62 covariant hamiltonian field theory
+42 on the correspondence between the strongly coupled 2 flavor lattice schwinger model and the heisenberg antiferromagnetic chain
+27 abelian dominance in wilson loops
+11 generalised calogero moser models and universal lax pair operators 
+51 topological field theory and quantum holonomy representations of motion groups 
+70 a second order differential equation for the relativistic description of electrons and photons
+43 singleton physics
+06 deformation quantization of classical fields
+07 bps states in 10 2 dimensions
+59 anomalies unitarity and quantum irreversibility 
+94 supersolutions
+53 relativistic partial wave analysis using the velocity basis of the poincare group
+20 whitham deformations of seiberg witten curves for classical gauge groups 
+07 stochastic field theory for a dirac particle propagating in gauge field disorder
+89 integrable structures in classical off shell 10d supersymmetric yang mills theory 
+23 free harmonic oscillators jack polynomials and calogero sutherland systems 
+29 instantons and chiral anomaly in fuzzy physics
+02 particle reflection amplitudes in a n 1 toda field theories
+18 confinement solitons and the equivalence between the sine gordon and massive thirring models 
+71 modular theory and eyvind wichmann s contributions to modern particle physics theory
+98 heisenberg and modular invariance of n 2 conformal field theory
+88 renormalization group method for reduction of evolution equations invariant manifolds and envelopes 
+43 the quest for understanding in relativistic quantum physics
+15 effective theory of qcd
+66 on the supersymmetries of anti de sitter vacua
+17 distances in finite spaces from noncommutative geometry 
+19 reduction of relativistic three body kinematics
+68 discrete analogs of the darboux egoroff metrics
+35 solution generating in ten dimensional supersymmetric classical yang mills theories 
+98 odd bihamiltonian structure of new supersymmetric n 2 4 kdv and odd susy virasoro  like algebra 
+99 chen s iterated integral represents the operator product expansion 
+92 simple spin networks as feynman graphs
+44 singular dimensions of the n 2 superconformal algebras ii the twisted n 2 algebra 
+85 a speculative approach to quantum gravity
+68 seiberg witten theory and integrable systems
+13 on counting special lagrangian homology 3 spheres
+54 environment induced effects on quantum chaos decoherence delocalization and irreversibility 
+62 scale anomaly and quantum chaos in the billiards with pointlike scatterers
+75 supersymmetric sigma models twistors and the atiyah hitchin metric 
+96 overview and warmup example for perturbation theory with instantons
+15 q schrodinger equations for v u 2 1 u 2 and morse potentials in terms of the q canonical transformation
+16 a q deformation of the coulomb problem
+44 maximal localisation in the presence of minimal uncertainties in positions and momenta
+85 yangians integrable quantum systems and dorey s rule 
+31 exact bethe ansatz solution of nonultralocal quantum mkdv model 
+47 generalized weierstrass enneper inducing conformal immersions and gravity 
+22 topological landau ginzburg theory with a rational potential and the dispersionless kp hierarchy
+33 negaton and positon solutions of the kdv equation
+83 generalized deformed oscillators and algebras
+98 holomorphic quantization on the torus and finite quantum mechanics
+17 extensions of the matrix gelfand dickey hierarchy from generalized drinfeld sokolov reduction
+60 spectral invariants for the dirac equation on the d ball with various boundary conditions
+64 geometric phase in quantum billiards with a pointlike scatterer
+02 the other topological twisting of n 4 yang mills
+13 anyonic realization of the quantum affine lie algebra u q a n 
+66 a geometrical formulation of the renormalization group method for global analysis 
+05 the resolution of field identification fixed points in diagonal coset theories
+22 connection between  zeta and cutoff regularizations of casimir energies
+11 an su 2 analog of the azbel hofstadter hamiltonian
+96 exact solution of a n body problem in one dimension
+58 generalized deformed su 2 algebras deformed parafermionic oscillators and finite w algebras 
+51 index theory gerbes and hamiltonian quantization 
+20 a local and integrable lattice regularization of the massive thirring model
+36 holomorphic yang mills theory and variation of the donaldson invariants
+86 on s duality in abelian gauge theory
+01 supersymmetric yang mills systems and integrable systems
+75 localization and diagonalization a review of functional integral techniques for low dimensional gauge theories and topological field theories 
+10 the donaldson witten invariants in pure qcd with order and disorder t hooft like operators
+35 from dynkin diagram symmetries to fixed point structures
+89 algebraic geometrical formulation of two dimensional quantum gravity 
+72 polynomial identities indices and duality for the n 1 superconformal model sm 2 4 nu  
+07 integrable discretizations of chiral models
+59 the conformal spin and statistics theorem
+17 classical matrix sine gordon theory
+18 gromov witten invariants via algebraic geometry
+72 differential geometry and integrability of the hamiltonian system of a closed vortex filament
+10 non abelian monopoles on four manifolds
+68 multinomials and polynomial bosonic forms for the branching functions of the  widehat su 2  m times widehat su 2  n  widehat su 2  m n  conformal coset models
+67 quantum jacobi trudi and giambelli formulae for u q b r  1   from analytic bethe ansatz
+14 spinor construction of the c  1 2 minimal model
+21 bps states string duality and nodal curves on k3 
+30 on the connectedness of the moduli space of calabi yau manifolds
+57 holomorphic bundles and many body systems
+90 the renormalization group method and quantum groups the postman always rings twice
+08 stable singularities in string theory
+47 higher grading generalisations of the toda systems
+01 kdv type systems and w algebras in the drinfeld sokolov approach 
+36 q deformed oscillator algebra and an index theorem for the photon phase operator
+19 the w 3 algebra modules semi infinite cohomology and bv algebras 
+96 constrained kp models as integrable matrix hierarchies
+06 multistring vertices and hyperbolic kac moody algebras
+07 solution of the dispersionless hirota equations
+29 modular covariance pct spin and statistics 
+05 affine toda systems coupled to matter fields
+27 topological bf theories in 3 and 4 dimensions
+47 identical particles and quantum symmetries
+01 topological qcd
+75 dual polyhedra mirror symmetry and landau ginzburg orbifolds 
+20 complex sine gordon theory for coherent optical pulse propagation
+37 topological quantum field theory a progress report 
+05 exact solvability of the calogero and sutherland models 
+38 exchange statistics in 1d from the viewpoint of exact solution
+84 construction of brst invariant states in g h wznw models 
+16 relativistic calogero sutherland model spin generalization quantum affine symmetry and dynamical correlation functions 
+17 monopole and dyon bound states in n 2 supersymmetric yang mills theories
+54 exact solutions to the generalized lienard equations
+32 bv structure of the cohomology of nilpotent subalgebras and the geometry of w  strings
+10 the master field for qcd and q deformed quantum field theory
+40 polynomial invariants for su 2 monopoles 
+04 on the classification of reflexive polyhedra
+95 mirror symmetry for hyperkaehler manifolds
+62 n 2 supersymmetric qcd and four manifolds  i the donaldson and the seiberg witten invariants 
+10 two state spectral free solutions of frenkel moore simplex equation
+39 pfaffian and determinant solutions to a discretized toda equation for b r c r and d r 
+85 central extensions of gauge groups revisited
+98 operator coproduct realization of quantum group transformations in two dimensional gravity i 
+84 the hamiltonian structure of soliton equations and deformed w algebras
+77 group theoretical foundations of fractional supersymmetry
+64 on the instanton contributions to the masses and couplings of e 6 singlets
+90 field theory entropy the h theorem and the renormalization group 
+15 solutions of the hamilton jacobi equation for one component two dimensional field theories
+15 thermodynamic bethe ansatz and dilogarithm identities i
+05 constructing solutions of hamilton jacobi equations for 2 d fields with one component by means of baecklund transformations
+28 instantons in burgers equation
+82 algebras bps states and strings 
+79 exact s matrices with affine quantum group symmetry
+41 the master field for large n matrix models and quantum groups
+52 on semi periods
+51 quantum chains with a catalan tree pattern of conserved charges the  delta  1 xxz model and the isotropic octonionic chain
+52 a labelling scheme for higher dimensional simplex equations
+18 regularization of toda lattices by hamiltonian reduction
+36 towards a loop representation for quantum canonical supergravity
+51 four dimensional avatars of two dimensional rcft
+67  th eorie de liouville et gravitation quantique du couplage faible au couplage fort  
+00 quantum chains of hopf algebras with quantum double cosymmetry
+91 mirror symmetry and the moduli space for generic hypersurfaces in toric varieties
+69 higher bundle gerbes and cohomology classes in gauge theories
+68 on the solutions of the cp 1  model in  2 1  dimensions
+93 symmetry reductions of the lax pair of the four dimensional euclidean self dual yang mills equations
+01 matrix models and geometry of moduli spaces
+54 monodromy map and classical r matrices
+53 towards a classification of rational hopf algebras
+70 three dimensional bf theories and the alexander conway invariant of knots
+70 deformation of infinite dimensional differential graded lie algebras
+97 brst structures and symplectic geometry on a class of supermanifolds
+05 on the constrained kp hierarchy ii
+59 on the classification of quantum poincar e groups
+12 q euclidean space and quantum group wick rotation by twisting
+94 vector braids
+68 weinstein  xu invariants and link group representations
+05 quasitriangularity of quantum groups at roots of 1
+38 dressing transformations and the algebraic geometrical solutions in the conformal affine sl 2  toda model
+33 realization of u q so n  within the differntial algebra on  bf r q n 
+84 representations of composite braids and invariants for mutant knots and links in chern simons field theories 
+96 integrable hierarchies and dispersionless limit
+63 a bigraded version of the weil algebra and of the weil homomorphism for donaldson invariants
+40 geometry of determinants of elliptic operators
+82 poisson lie contractions and quantum 1 1 groups
+26 quasiclassical asymptotics of solutions to the kz equations
+30 quantum and floer cohomology have the same ring structure
+43 quantum groups and zeta functions
+27 new link invariants and yang baxter equation
+16 universal drinfeld sokolov reduction and matrices of complex size
+44 integrable mappings and polynomial growth
+73 u q sl n  difference operator realization
+06 crossed modules and quantum groups in braided categories ii
+12 introduction to quantum algebras
+42 realisations of gl p q 2  quantum group and its coloured extension through a novel hopf algebra with five generators 
+57 duality principle and braided geometry
+31 left regular representation of sl q 3  reduction and intertwiners
+53 modular invariance and characteristic numbers
+04 conformal blocks on elliptic curves and the knizhnik zamolodchikov bernard equations
+19 mirror manifolds in higher dimension
+86 mirror symmetry and string vacua from a special class of fano varieties
+66 combinatorial quantization of the hamiltonian chern simons theory i
+31 inhomogeneous quantum groups igl q r n  universal enveloping algebra and differential calculus 
+70 algebras with operator and campbell hausdorff formula
+43 tetramodules over the hopf algebra of regular functions on a torus
+87 poincar  e series of quantum matrix bialgebras determined by a pair of quantum spaces
+06 multiparameter quantum function algebra at roots of 1
+56 some remarks on the quantum double
+20 superanalogs of symplectic and contact geometry and their applications to quantum field theory
+62 geometry of the frenkel kac segal cocycle
+73 the multisite antiferromagnetic ising spin model and universality of feigenbaum constants
+69 symmetries of quantum spaces subgroups and quotient spaces of quantum su 2  and so 3  groups 
+60 witten s invariant of 3 dimensional manifolds loop expansion and surgery calculus
+09 on the operator content of nilpotent orbifold models
+18 on braided tensor categories
+11 a simple construction of elliptic r matrices
+47 quantum dilogarithm as a 6j symbol
+11 representation theory and tensor product theory for vertex operator algebras
+17 two matrix string model as constrained 2 1 dimensional integrable system
+53 closedness of star products and cohomologies
+67 multi component kdv hierarchy v algebra and non abelian toda theory 
+07 the quantum 2 dimensional poincare group from quantum group contraction
+13 the poincare birkhoff witt theorem for quadratic algebras of koszul type
+24 some remarks on the gauss decomposition for quantum group gl q n 
+85 local systems of vertex operators vertex superalgebras and modules 
+01 supersymetrie et mathematiques
+71 the 
+98 finite dimensional representations of the quantum superalgebra u  q 
+05 bicovariant differential geometry of the quantum group sl h 2 
+33 the duality between  kappa poincar e algebra and  kappa poincar e group
+68 on poisson lie structure on the external algebra of the classical lie groups
+38 on dijkgraaf witten type invariants
+42 algebraic framework for quantization of nonultralocal models
+95 the euclidean hopf algebra u q e n  and its fundamental hilbert space representations
+56 on quantum group sl q 2 
+92 realization of compact lie algebras in k  ahler manifolds 
+65 large random matrices eigenvalue distribution
+54 combinatorial constructions of modules for infinite dimensional lie algebras i principal subspace 
+12 discrete differential calculus graphs topologies and gauge theory 
+88 difference elliptic operators and root systems
+57 integrable highest weight modules over affine superalgebras and number theory 
+07 bicrossproduct structure of  kappa poincare group and non commutative geometry
+41 non commutative quantum probability master fields and stochastic bosonization 
+65 invariants of 3 manifolds derived from finite dimensional hopf algebras
+88 on orbifolds with discrete torsion 
+36 summing the instantons quantum cohomology and mirror symmetry in toric varieties
+29 a triangular deformation of the two dimensional poincare algebra
+82 wbase a c package to reduce tensor products of lie algebra representations
+40 harmonic maps between three spheres
+78 quantum isomonodromic deformations and the knizhnik zamolodchikov equations 
+91 nonperturbative 2d gravity punctured spheres and  theta vacua in string theories 
+69 the w 1 infty gl s  symmetries of the s  component kp hierarchy
+60 asymptotic solutions to the quantized knizhnik zamolodchikov equation and bethe vectors
+79 representations at a root of unity of q oscillators and quantum kac moody algebras
+75 residue formulas for the large k asymptotics of witten s invariants of seifert manifolds the case of su 2 
+08 painleve iii and 2d polymers
+57 geometric quantization on homogeneous spaces and the meaning of inequivalent quantizations
+24 bispectral kp solutions and linearization of calogero moser particle systems 
+45 quantum affine algebras and their representations
+11 generalized hirota equations and representation theory i the case of sl 2  and sl q 2   
+51 extended reflection equation algebras the braid group on a handlebody and associated link polynomials 
+12 eta invariants and determinant lines
+41 quadratic poisson brackets compatible with an algebra structure
+97 on diagonalization in map m g 
+31 quantum symmetric spaces
+13 dilogarithm identities 
+37 on quantum galois theory
+67 finite quantum physics and noncommutative geometry
+53 q deformed chern characters for quantum groups su q n 
+05 structures symplectiques sur les espaces de courbes projectives et affines
+81 quantum diffusion
+30 setting hidden symmetries free by the noncommutative veronese mapping
+32 chiral rings do not suffice n 2 2 theories with nonzero fundamental group 
+50 localization of  frak u  modules i intersection cohomology of real arrangements 
+06 representations of so 5  q  and non minimal q deformation
+00 finite dimensional representations of the quantum group gl p q 2  using the exponential map from u p q gl 2   
+67 visualizing 2d quantum field theory geometry and informatics of mobilevision
+36 orthogonal decomposition of some affine lie algebras in terms of their heisenberg subalgebras 
+27 poisson lie structures on the external algebra of sl 2  and their quantization
+45 the exponential map for the unitary group su 2 2 
+49 dynamical r matrices and separation of variables the generalised calogero moser model
+46 representation theory of quantized poincare algebra tensor operators and their application to one partical systems
+53 modular invariants and fusion rule automorphisms from galois theory
+06 many q particles from one a new approach to   hopf algebras 
+80 generic solutions for some integrable lattice equations
+83 four dimensional topological quantum field theory hopf categories and the canonical bases 
+55 mirror symmetry mirror map and applications to complete intersection calabi yau spaces 
+38 solutions to the quantum yang baxter equation with extra non additive parameters
+28 invariant indentities in the heisenberg algebra
+99 quantum canonical transformations revisited
+24 noncommutative symmetric functions
+78 representations of tensor categories and dynkin diagrams
+57 q epsilon tensor for quantum and braided spaces
+68 quasi exactly solvable differential equations
+08 the cohomology of algebras over moduli spaces
+46 noncommutative differential geometry with higher order derivatives
+23 the highest weight property for the su q n  invariant spin chains
+03 spherical functions for the quantum group su q 2 
+32 graded contractions of bilinear invariant forms of lie algebras
+89 extensions and contractions of the lie algebra of q pseudodifferential symbols
+20 reshetikhin s formula for the jones polynomial of a link feynman diagrams and milnor s linking numbers
+56 quantum cohomology of partial flag manifolds and a residue formula for their intersection parings
+41 introduction to braided geometry and q minkowski space
+60 quantum group covariant noncommutative geometry
+09 on structure constants of sl 2  theories
+76 numerical knot invariants of finite type from chern simons perturbation theory
+34 arithmetic properties of mirror map and quantum coupling
+38 induced modules for vertex operator algebras
+43 a dynamical system connected with inhomogeneous 6 vertex model
+11 n dimensional representations of the braid groups b n 
+37 lagrangian formalism over graded algebras 
+70 cartan calculus differential geometry for quantum groups
+57 on the constrained kp hierarchy ii an additional remark 
+66 derivations and noncommutative differential calculus ii
+33 solitons and helices the search for a math physics bridge
+37 algebraic  q  integration and fourier theory on quantum and braided spaces
+77 quantum supergroups and topological invariants of three  manifolds
+36 twisting of quantum super algebras connection of drinfeld s and cartan weyl realizations for quantum affine algebras
+14 coherent states for quantum compact groups
+47 gromov witten classes quantum cohomology and enumerative geometry 
+34 general solutions of the monge amp  e re equation in n dimensional space 
+10 on automorphisms and universal r matrices at roots of unity
+65 a class of quantum states with classical like evolution
+58 on the structure of inhomogeneous quantum groups
+99 linear connections on the quantum plane
+64 center of a quantum affine algebra at the critical level
+79 octonionic representations of clifford algebras and triality
+90 diffeomorphisms of curved manifolds
+09 supercoherent states super k  ahler geometry and geometric quantization 
+01 realizations of the q heisenberg and q virasoro algebras
+44 the role of solvable groups in quantization of lie algebras
+23 deformation analysis of matrix models
+85 quantum groups on fibre bundles
+10 remarks on the entropy of 3 manifolds
+47 four dimensional integrable theories
+40 racah sum rule and biedenharn elliott identity for the super rotation 6 j symbols
+44 minimal affinizations of representations of quantum groups the u q g  module structure
+52 a time discretized version of the calogero moser model
+86 virasoro character identities from the andrews bailey construction
+99 quantum groups and jordan structures
+22 free field representation of quantum affine algebra u q widehat sl 2  and form factors in higher spin xxz model 
+63 homotopy g algebras and moduli space operad
+26 infinite dimensional geometry and quantum field theory of strings iii infinite dimensional w geometry of a second quantized free string 
+27 operator formalism on general algebraic curves
+37 realizations of the monster lie algebra
+51 string theory on k3 surfaces
+50 universal r matrix of reductive lie algebras
+01 classical integrable lattice models through quantum group related formalism
+40 bialgebra actions twists and universal deformation formulas 
+37 the advantage of a multi user mode
+50 topics in hidden symmetries
+76 dilute birman wenzl murakami algebra and d  2  n 1  models
+35 algebraic integrability of schr  odinger operators and representations of lie algebras 
+05 bicovariant differential calculus on quantum groups from poisson lie structures
+68 diffeomorphisms of the klein bottle and projective plane
+21 dynamical systems accepting the normal shift on an arbitrary riemannian manifold 
+86 differential calculus on q minkowski space
+11 on solutions to the twisted yang baxter equation
+88 topics in quantum geometry of riemann surfaces two dimensional quantum gravity
+58 infinite abelian subalgebras in quantum w algebras an elementary proof
+87 some new solutions of yang baxter equation
+42 generalized q oscillators and their hopf structures
+02 symmetric monopoles
+36 elliptic quantum many body problem and double affine knizhnik zamolodchikov equation
+93 the homfly polynomial for torus links from chern simons gauge theory
+45 group like structures in quantum lie algebras and the process of quantization
+58  structures on braided spaces
+83 on the symmetries of hamiltonian systems
+94 trigonometric r matrices related to dilute birman wenzl murakami algebra
+61 symplectic geometry and hamiltonian flow of the renormalisation group equation
+17 laughlin states on the sphere as representations of uq sl 2 
+12 reduction of toda lattice hierarchy to generalized kdv hierarchies and two matrix model
+38 gauss decomposition of trigonometric r matrices
+48 infinite dimensional geometry and quantum field theory of strings ii infinite dimensional noncommutative geometry of a self interacting string field 
+83 lie bialgebra contractions and quantum deformations of quasi orthogonal algebras
+08 models for operads
+84 a comment on jones inclusions with infinite index 
+90 quantum deformations of  tau functions bilinear identities and representation theory 
+46 determinants of elliptic pseudo differential operators
+59 on the inhomogeneous quantum groups
+03 quantum cohomology of partial flag manifolds
+44 on certain quantum deformations of gl n r  
+54 interrelations between quantum groups and reflection equation braided algebras
+90 a nonmeromorphic extension of the moonshine module vertex operator algebra
+25 on algebraic structures implicit in topological quantum field theories
+61 on the hopf structure of u p q gl 1 1  and the universal  cal t  matrix of fun p q gl 1 1  
+02 octonion x product orbits
+54 a star product approach to noncompact quantum groups
+17 mapping class group actions on quantum doubles
+35 enumeration of rational curves via torus actions
+95 supersymmetric yang mills theory on a four manifold 
+94 yangian double and rational r matrix
+50 q difference intertwining operators for u q sl n   general setting and the case n 3 
+98 symmetries and tau function of higher dimensional dispersionless integrable hierarchies
+97 non local matrix generalizations of w algebras
+21 a contribution of the trivial connection to the jones polynomial and witten s invariant of 3d manifolds ii
+27 a universal non quasitriangular quantization of the heisenberg group
+06 on type i quantum affine superalgebras
+24 gl q n covariant braided differential bialgebras
+36 minimal affinizations of representations of quantum groups the simply laced case
+90 noncommutative symmetric functions and laplace operators for classical lie algebras
+03 the algebra of chern simons classes and the poisson bracket on it
+41 solutions of the yang baxter equation with extra non additive parameters ii  u q gl m n  
+34 quantum orbits of r matrix type
+47 spherical functions on affine lie groups
+41 on the duistermaat heckman integration formula and integrable models 
+68 equivariant morse theory and quantum integrability
+87 mirror symmetry for two parameter models  ii
+79 on representation theory of quantum sl q 2  groups at roots of unity
+52 quantum algebras for maximal motion groups of n dimensional flat spaces
+72 quantum determinants
+76 tetrahedron equation and the algebraic geometry
+67 state sum invariants of 4 manifolds i
+10 asymptotics for the fredholm determinant of the sine kernel on a union of intervals
+07 large n 2d yang mills theory and topological string theory
+08 mirror symmetry constructions a review
+09 a d e polynomial and rogers ramanujan identities
+94 minor identities for quasideterminants and quantum determinants
+93 berezin quantization and unitary representations of lie groups
+43 dynamical r matrices for integrable maps
+24 first order regge calculus
+52 topological quantum groups star products and their relations 
+08 on spectral theory of quantum vertex operators
+68 on the affine analogue of jack s and macdonald s polynomials
+42 a three parameter invariant of oriented links
+87 all bicovariant differential calculi on glq 3 c and slq 3 c 
+02 crossed modules and quantum groups in braided categories i
+81 nonperturbative model of liouville gravity
+16 tqft versus rcft 3 d topological invariants
+41 induced extended calculus on the quantum plane
+16 the universal vassiliev kontsevich invariant for framed oriented links
+39 projective quantum spaces
+03 ade functional dilogarithm identities and integrable models
+55 towards a classification of knots
+70  q meromorphic functions quantums sets and homomorphisms of the quantum plane 
+36 generalised moonshine and abelian orbifold constructions
+91 knizhnik zamolodchikov bernard equations on riemann surfaces
+78 elliptic dunkl operators root systems and functional equations 
+59 the adler shiota van moerbeke formula for the bkp hierarchy
+01 on quasitriangular hopf algebras related to the borel subalgebra of sl 2 
+47 octonions and binocular mobilevision
+38 on fock space representations of quantized enveloping algebras related to non commutative differential geometry
+64 a infty algebras and the cohomology of moduli spaces
+67 coadditive differential complexes on quantum groups and quantum spaces
+09 free field realizations in representation theory and conformal field theory
+61 a contribution of the trivial connection to jones polynomial and witten s invariant of 3d manifolds i
+93 braided hopf algebras and differential calculus
+68 modular properties of ribbon abelian categories
+99 on three dimensional topological field theories constructed from d omega g  for finite group
+94 an elliptic quantum algebra for  widehat sl 2 
+68 infinite dimensional geometry and quantum field theory of strings i infinite dimensional geometry of second quantized free string 
+17 unified approach to thermodynamic bethe ansatz and finite size corrections for lattice models and field theories
+09 the hamiltonian formulation of higher order dynamical systems
+26 on quantum flag algebras
+53 fusion of the q vertex operators and its application to solvable vertex models
+95 chirality of knots 9 42  and 10 71  and chern simons theory
+83 spectral stochastic processes arising in quantum mechanical models with a non l2 ground state
+75 classical r matrices and construction of quantum groups
+17 mirror symmetry for calabi yau hypersurfaces in weighted p 4 and extensions of landau ginzburg theory
+83 local systems over complements of hyperplanes and the kac kazhdan conditions for singular vectors 
+91 polynomial identities of the rogers ramanujan type
+10 some classical and quantum algebras
+98 non standard quantum so 2 2 and beyond 
+18 geometry of 2d topological field theories
+19 the equality of 3 manifold invariants
+67 invariants of 3 manifolds and projective representations of mapping class groups via quantum groups at roots of unity
+10 quantum group sheaf and quantum manifolds
+46 3 f 2 1 hypergeometric function and quadratic r matrix algebra 
+53 differential geometry on hopf algebras and quantum groups ph d thesis 
+93 wodzicki residue and anomalies of current algebras
+36 the drinfeld sokolov holomorphic bundle and classical w algebras on riemann surfaces
+29 strong connections on quantum principal bundles
+36 exceptional structure of the dilute a 3 model e 8 and e 7 rogers ramanujan identities
+42 triangular dissections aperiodic tilings and jones algebras 
+40 further results on functional determinants of laplacians in simplicial complexes
+07 some concepts of modern algebraic geometry point ideal and homomorphism 
+45 translation map in quantum principal bundles
+95 strongly homotopy lie algebras
+79 some functional solutions of the yang baxter equation
+80 dirac operators on quantum two spheres
+13 the chern simons action in non commutative geometry
+14 general compact quantum groups a tutorial 
+75 some beautiful equations of mathematical physics
+37 from antibracket to equivariant characteristic classes
+30 baxterization dynamical systems and the symmetries of integrability 
+16 schwinger terms and cohomology of pseudodifferential operators
+02 monopoles and four manifolds 
+99 poisson poincare groups
+62 finite dimensional representations of quantum affine algebras
+64 b  acklund transformations an zero curvature representations of systems of partial differential equations 
+38 integral formulas for wave functions of quantum many body problems and representations of gl n 
+15  kappa deformation of poincar e superalgebra with classical lorentz subalgebra and its graded bicrossproduct structure
+70 the differential calculus on quantum linear groups
+34 universal and generalized cartan calculus on hopf algebras
+09 conjugacy classes of involutive automorphisms of the c  ell  1  affine kac moody algebras
+40 eigenvalue integro differential equations for orthogonal polynomials on the real line
+92 on relations between vertex operators quasiclassical operators and phase space coordinates 
+38 drinfel d algebra deformations homotopy comodules and the associahedra 
+77 r  matrix construction of electromagnetic models for the painlev e transcendents
+65 strings from logic 
+10 quantum matrix algebra for the su n wznw model 
+24 kinks from dynamical systems domain walls in a deformed o n linear sigma model
+05 bicomplexes integrable models and noncommutative geometry 
+53 thermodynamics of non abelian exclusion statistics 
+19 phase structure of non commutative scalar field theories
+75 counting yang mills dyons with index theorems
+45 the chiral wznw phase space as a quasi poisson space 
+68 infinite symmetries in the skyrme model
+84 some aspects of deformations of supersymmetric field theories
+22 seiberg witten toda chains and n 1 sqcd
+17 d branes categories and n 1 supersymmetry 
+39 geometric interpretation of schwarzschild instantons 
+81 bound states in the three dimensional phi 4 model
+87 marginal and relevant deformations of n 4 field theories and non commutative moduli spaces of vacua 
+97 quantization of constrained systems
+80 another alternative to compactification noncommutative geometry and randall sundrum models
+90 a collection of exercises in two dimensional physics part 1 
+30 holographic reconstruction of spacetime and renormalization in the ads cft correspondence
+18 bfv brst analysis of equivalence between noncommutative and ordinary gauge theories
+55 classical supersymmetric mechanics
+87 addendum erratum to  nonasymptotic critical behavior from field theory at d 3 ii the ordered phase case phys rev b35 3585 1987 
+09 exact solvability of superintegrable systems 
+59 from noncommutative bosonization to s duality 
+89 bps states and algebras from quivers
+69 on the structure of open closed topological field theory in two dimensions
+18 monopole supersymmetries and the biedenharn operator
+99 deformed heisenberg algebras a fock space representation and the calogero model 
+99 some properties of non linear  sigma models in noncommutative geometry
+24 indecomposable u q sl n modules for q h  1 and brs intertwiners 
+99 equivalence of projections as gauge equivalence on noncommutative space
+05 noncommutative gauge theory for poisson manifolds
+55 spin 7 holonomy manifold and superconnection
+09 model of a quantum particle in spacetime
+54 explicit zeta functions for bosonic and fermionic fields on a noncommutative toroidal spacetime 
+46 boundaries of zero scalar curvature in the ads cft correspondence
+37 microscopic spectrum of the qcd dirac operator in three dimensions 
+36 construction of all wzw orbifold actions 
+16 p adic and adelic free relativistic particle
+11 magnetic catalysis in qed 3 at finite temperature beyond the constant mass approximation
+61 universal properties in low dimensional fermionic systems and bosonization
+98 lee yang edge singularity in the three dimensional gross neveu model at finite temperature
+22 on the nature of fermion monopole supersymmetry
+09 triality and quantization of singularities in massive fermion
+87 regular basis and r matrices for the su n k knizhnik zamolodchikov equation 
+39 noncommutative scalar solitons existence and nonexistence
+73 field theory on the q deformed fuzzy sphere i
+21 born infeld electrodynamics clifford number and spinor representations
+90 the non retarded dispersive force between an electrically polarizable atom and a magnetically polarizable one
+29 the hurwitz enumeration problem of branched covers and hodge integrals
+50 the scaling supersymmetric yang lee model with boundary
+80 factorization of correlation functions in coset conformal field theories 
+46 the rest frame darwin potential from the lienard wiechert solution in the radiation gauge 
+09 promoting finite to infinite symmetries the 3 1 dimensional analogue of the virasoro algebra and higher spin fields
+59 combinatorics of perturbative quantum field theory 
+77 one point functions in perturbed boundary conformal field theories
+15 results from an algebraic classification of calabi yau manifolds
+13 properties of perturbative solutions of unilateral matrix equations
+77 quantum chern simons vortices on a sphere
+41 topological open p branes
+23 integrable chain model with additional staggered model parameter
+61 one point functions in integrable coupled minimal models
+87 more about all current algebraic orbifolds
+21 duality and the equivalence principle of quantum mechanics
+26 multi parametric deformed heisenberg algebras a route to complexity 
+94 lagrangian noether symmetries as canonical transformations
+56 chaotic symmetry breaking and dissipative two field dynamics 
+40 complete classification of reflexive polyhedra in four dimensions
+10 hopf instantons chern simons vortices and heisenberg ferromagnets 
+90 brane vacuum as chain of rotators
+59 generalized lorentzian triangulations and the calogero hamiltonian
+27 kahler normal coordinate expansion in supersymmetric theories
+79 feynman diagrams and polylogarithms shuffles and pentagons
+13 chaotic behavior in a z 2 x z 2 field theory
+78 liouville integrability of classical calogero moser models 
+51 hidden local quasi local and non local symmetries in integrable systems 
+94 bosonized supersymmetric quantum mechanics and supersymmetry of parabosons parafermions 
+09 conformal field theory boundary conditions and applications to string theory 
+86 hidden classical symmetry in quantum spaces at roots of unity  from q sphere to fuzzy sphere
+74 noncommutative korteweg de vries equation 
+75 descendants of the chiral anomaly
+31 noncommutative riemann surfaces
+58 hidden virasoro symmetry of soliton solutions of the sine gordon theory 
+00 the concept of a noncommutative riemann surface
+12 lie groups calabi yau threefolds and f theory 
+65 eigenfunctions of gl n rr  toda chain the mellin barnes representation 
+08 quantum mechanical symmetries and topological invariants
+34 exact renormalization group equations an introductory review
+87 some remarks on the epsilon expansion of dimensionally regulated feynman diagrams
+14 a derivation of witten s conjecture relating donaldson and seiberg witten invariants
+33 the exotic galilei group and the  peierls substitution  
+67 brs chern simons forms and cyclic homology
+90 exact solution of the three color problem on a random lattice
+08 super calogero moser sutherland systems and free super oscillators  a mapping
+93 vertex algebras mirror symmetry and d branes the case of complex tori 
+10 bogoliubov renormalization group and symmetry of solution in mathematical physics 
+53 integrability seiberg witten models and picard fuchs equations 
+23 nonlinear supersymmetry quantum anomaly and quasi exactly solvable systems 
+04 thermodynamic bethe ansatz for generalized extensive statistics
+67 cubic root of klein gordon equation
+29 the replica limit of unitary matrix integrals
+75 canonical discretization i discrete faces of an harmonic oscillator
+37 conformally symmetric massive discrete fields
+34 non abelian geometry 
+43 flux tube solutions in noncommutative gauge theories
+83 supersymmetric fluid mechanics 
+68 holomorphic vector bundles knots and the rozansky witten invariants 
+55 schubert calculus and threshold polynomials of affine fusion
+29 wick type symbol and deformed algebra of exterior forms
+06 a short survey of noncommutative geometry
+31 degenerate dynamical systems 
+05 charged particles in external fields as physical examples of quasi exactly solvable models a unified treatment 
+50 nahm transform for periodic monopoles and n 2 super yang mills theory 
+29 nontopological finite temperature induced fermion number
+57 operator quantization of constrained wznw theories and coset constructions
+64 noncommutative chern simons terms and the noncommutative vacuum 
+66 force in kappa deformed relativistic dynamics
+74 baxter t q equation for shape invariant potentials the finite gap potentials case 
+46 exact solutions of dyson schwinger equations for iterated one loop integrals and propagator coupling duality
+35 post riemannian merger of yang mills interactions with gravity
+70 exact solution of the supersymmetric sinh gordon model with boundary
+84 precanonical quantization and the schroedinger wave functional
+96 three manifold invariants from chern simons field theory with arbitrary semi simple gauge groups
+88 spectra of massive and massless qcd dirac operators a novel link
+28 two loop beta function from the exact renormalization group
+02 towards an algebraic classification of calabi yau manifolds i study of k3 spaces
+88 renormalization in quantum field theory and the riemann hilbert problem ii the  beta function diffeomorphisms and the renormalization group 
+14 dynamics and causality constraints
+12 half integer winding number solutions to the landau ginzburg higgs equations and instability of the abrikosov nielsen olesen vortex
+27 crystallographic orbifolds towards a classification of unitary conformal field theories with central charge c  2
+27 on ramond ramond fields and k theory
+93 noncommutative instantons and twistor transform 
+25 supersymmetric nonlinear sigma models
+69 string partition functions and infinite products
+74 john bell s observations on the chiral anomaly and some properties of its descendants
+43 geometry of the physical phase space in quantum gauge models
+54 non analyticity of the callan symanzik beta function of two dimensional o n model
+58 spin chains from super models
+01 quantum maxwell stresses and the casimir effect
+50 quons in relativistic theories must be bosons or fermions
+43 integrable ladder t j model with staggered shift of the spectral parameter
+84 distribution of instanton sizes in a simplified instanton gas model
+50 fractional supersymmetry and lie algebras 
+07 jacobson generators fock representations and statistics of sl n 1  
+89 new results for the epsilon expansion of certain one  two and three loop feynman diagrams 
+39 exact solutions of an elliptic calogero sutherland model
+37 generating all wigner functions 
+30 reduction of affine two loop wznw model the toda system coupled to the matter and topological confinement 
+17 thermodynamics of the complex su 3 toda theory
+84 chern simons reduction and non abelian fluid mechanics 
+47 lattice gauge fields and discrete noncommutative yang mills theory 
+39 the generalized abel plana formula applications to bessel functions and casimir effect 
+27 finite temperature expectation values of local fields in the sinh gordon model
+38 d brane charge flux quantisation and relative co homology 
+08 standard model bundles on non simply connected calabi yau threefolds
+83 bidyon or an electromagnetic model for charged particle with spin 
+59 fate of the classical false vacuum
+58 finite group modular data
+99 monodromy representations of the braid group 
+23 d branes b fields and twisted k theory 
+07 renormalization group irreversible functions in more than two dimensions
+88 noncommutative algebraic equations and noncommutative eigenvalue problem
+66 shape invariant potentials depending on n parameters transformed by translation
+53 central binomial sums multiple clausen values and zeta values 
+07 no nonsense casimir force
+29 parafermion hall states from coset projections of abelian conformal theories
+43 hamiltonian algebroid symmetries in w gravity and poisson sigma model
+35 rationality quasirationality and finite w algebras 
+37 the cubic matrix model and a duality between strings and loops
+05 how bob laughlin tamed the giant graviton from taub nut space
+11 fermionic realisations of simple lie algebras 
+99 the maximal kinematical invariance group of fluid dynamics and explosion implosion duality 
+00 on adelic strings
+24 boundary states for a free boson defined on finite geometries
+16 t duality of axial and vector dyonic integrable models
+00 topological quantum field theory and four manifolds
+01 the braiding for representations of q deformed affine sl 2 
+81 consistency of orbifold conformal field theories on k3
+39 radiatively induced lorentz and cpt violation in qed at finite temperature
+37 the sl 2 affine toda model coupled to the matter solitons and confinement
+82 solution of the scalar coulomb bethe salpeter equation
+45 entrapment of a network of domain walls 
+41 mirror symmetry d branes and counting holomorphic discs 
+06 quantum mechanics on the hypercube 
+08 quasiboson representations of sl n 1 and generalized quantum statistics 
+77 quantum calogero moser models integrability for all root systems 
+74 algebraic linearization of dynamics of calogero type for any coxeter group 
+28 proof of a symmetrized trace conjecture for the abelian born infeld lagrangian
+47 mirror symmetry for open strings
+23 electromagnetism and gauge theory on the permutation group s 3 
+14 fedosov deformation quantization as a brst theory 
+96 polynomial invariants for torus knots and topological strings
+48 the principle of the fermionic projector introduction and continuum limit 
+60 singular phases of seiberg witten integrable systems weak and strong coupling
+96 new solvable singular potentials
+62 euler number of instanton moduli space and seiberg witten invariants
+19 n 4 superconformal mechanics and the potential structure of ads spaces
+71 local mirror symmetry and type iia monodromy of calabi yau manifolds
+63 higher derivative cp n model and quantization of the induced chern simons term
+88 constructing classical and quantum superconformal algebras on the boundary of ads 3
+96 a deformation of three dimensional bf theory
+61 noncommutative renormalization for massless qed
+32 supercriticality and transmission resonances in the dirac equation
+94 topological gravity in genus 2 with two primary fields 
+81 periodic monopoles with singularities and n 2 super qcd
+57 the concept of particle weights in local quantum field theory
+19 casimir energy of a dilute dielectric ball with uniform velocity of light at finite temperature
+77 noncommutative generalized ns and super matrix kdv systems from a noncommutative version of anti  self dual yang mills equations
+42 on the landau ginzburg description of boundary cfts and special lagrangian submanifolds
+02 knots links and branes at large n 
+26 relativistic wave equations with fractional derivatives and pseudo differential operators
+09 non commutative calabi yau manifolds
+49 high precision estimate of g4 in the 2d ising model
+07 topological defects in 3 d euclidean gravity
+20 dirac charge quantization and generalized differential cohomology
+37 transplantation of local nets and geometric modular action on robertson walker space times
+35 discrete symmetries as automorphisms of the proper poincare group
+94 anti self dual yang mills equations on noncommutative spacetime 
+04 rationality of conformally invariant local correlation functions on compactified minkowski space 
+69 non local thirring model with spin flipping interactions
+42 n 4 supersymmetric yang mills theory on orbifold t 4  bf z 2 
+20 heat asymptotics with spectral boundary conditions
+55 instanton meron hybrid in the background of gravitational instantons
+37 stability and bps branes
+76 hopf solitons and area preserving diffeomorphisms of the sphere
+60 moyal deformation seiberg witten map and integrable models 
+04 completion of standard like embeddings
+02 towards cohomology of renormalization bigrading the combinatorial hopf algebra of rooted trees
+07 poisson algebra of 2d dimensionally reduced gravity
+28 fermionic quantum gravity 
+14 dynamical body frames orientation shape variables and canonical spin bases for the non relativistic n body problem 
+32 monopole chern simons term charge monopole system as a particle with spin
+13 blowup formulae in donaldson witten theory and integrable hierarchies
+27 energy bounds for the spinless salpeter equation harmonic oscillator
+94 gauging of geometric actions and integrable hierarchies of kp type
+35 comments on n 4 superconformal algebras
+50 discrete scalar fields and general relativity
+21 braided structure in 4 dimensional conformal quantum field theory
+53 absence of asymptotic freedom in non abelian models
+96 d branes exceptional sheaves and quivers on calabi yau manifolds from mukai to mckay 
+63 analog of lie algebra and lie group for quantum non hamiltonian systems 
+12 conjectured enumeration of irreducible multiple zeta values from knots and feynman diagrams 
+33 statistics and quantum group symmetries
+95 locally anisotropic interactions ii torsions and curvatures of higher order anisotropic superspaces
+80 a note on burgers turbulence
+14 generalized abelian deformations application to nambu mechanics
+67 d branes quivers and ale instantons 
+91 flux string in quantum billiards with two particles
+92 on moduli spaces of flat connections with non simply connected structure group
+32 parasupersymmetric quantum mechanics with generalized deformed parafermions
+25 a remark on integrable poisson algebras and two dimensional manifolds 
+89 exact computations in the burgers problem
+05 abelian bf theories and knot invariants
+68 virasoro symmetry of constrained kp hierarchies
+67 the schouten nijenhuis bracket cohomology and generalized poisson structures 
+80 quantum integrable systems and elliptic solutions of classical discrete nonlinear equations
+35 a  hbar deformed virasoro algebra as hidden symmetry of the restricted sine gordon model
+29 spin flavour symmetry and contractions towards classical space time symmetry
+94 on the finite temperature chern simons coefficient
+81 new semiclassical nonabelian vertex operators for chiral and nonchiral wzw theory
+78 quantum group symmetry in multiple chern simons theory on a torus
+85 the symmetry structure of the heavenly equation
+81 maximally nonabelian toda systems
+46 a method for solve integrable a 2 spin chains combining different representations
+65 variational derivation of exact skein relations from chern simons theories
+08 enhanced gauge symmetry in type ii string theory
+31 universal r matrix and quantum volterra model
+90 nonperturbative relations in n 2 susy yang mills and wdvv equation 
+14 on the finite dimensional quantum group m 3  m 2 1 lambda 2  0
+42 universal correlations in random matrices quantum chaos the 1 r 2 integrable model and quantum gravity 
+83 yangian invariant field theory of matrix vector models
+73 an exactly solvable three particle problem with three body interaction
+09 new index formulas as a meromorphic generalization of the chern gauss bonnet theorem
+25 ground state correlation functions for an impenetrable bose gas with neumann or dirichlet boundary conditions
+91 new integrable extensions of n 2 kdv and boussinesq hierarchies
+30 vassiliev invariants for links from chern simons perturbation theory
+10 on root multiplicities of some hyperbolic kac moody algebras
+42 a geometry for multidimensional integrable systems
+40 mirror symmetry is t duality
+39 on the divergence of perturbation theory steps towards a convergent series
+85 a nonrelativistic chiral soliton in one dimension 
+02 braided structure of fractional z 3 supersymmetry
+21 symmetries of the stochastic burgers equation
+53 on the structure of the small quantum cohomology rings of projective hypersurfaces
+60 why are the rational and hyperbolic ruijsenaars schneider hierarchies governed by the same r operators as the calogero moser ones 
+21 noncommutative differential geometry and connections on simplicial manifolds
+84 minimal length uncertainty relation and ultraviolet regularisation 
+39 sphere like solutions in surface functional theory and dirac s membrane model
+07 manifestly supersymmetric lax integrable hierarchies
+52 completely integrable equation for the quantum correlation function of nonlinear schr  odinger eqaution 
+45 local realizations of q oscillators in quantum mechanics
+01 determinants of dirac operators with local boundary conditions
+02 solutions of a discretized toda field equation for d r  from analytic bethe ansatz
+61 a q deformation of the harmonic oscillator
+54 searching for k3 fibrations
+99 form factors kdv and deformed hyperelliptic curves 
+01 the dispersive self dual einstein equations and the toda lattice
+39 a generalization of the casson invariant
+55 novel algebraic structures from the polysymplectic form in field theory 
+83 wakimoto realizations of current algebras an explicit construction
+16 determinant representation for dynamical correlation functions of the quantum nonlinear schr  odinger equation 
+70 quantum deformations of space time symmetries and interactions
+77 symmetries currents and conservation laws of self dual gravity 
+60 an explicit construction of casimir operators and eigenvalues  i 
+03 scaling limit of the ising model in a field
+36 wigner s d matrix elements for su 3   a generating function approach
+81 hidden symmetries of the principal chiral model unveiled
+77 w  infty and sl q 2 algebras in the landau problem and chern simons theory on a torus
+39 mirror symmetry and the web of landau ginzburg string vacua
+82 string quantum gravity motivated uncertainty relations and regularisation in field theory 
+70 duality between the webs of heterotic and type ii vacua
+02 on the relation between determinants and green functions of elliptic operators with local boundary conditions
+99 integrable quantum field theories in finite volume excited state energies 
+97 optimized perturbation theory for wave functions of quantum systems 
+21 generalized poisson structures
+39 relation of the new calogero models and xxz spin chains
+44 on bose fermi statistics quantum group symmetry and second quantization 
+66 tau functions and dressing transformations for zero curvature affine integrable equations
+44 integrable structure of conformal field theory ii q operator and ddv equation
+37 presymplectic geometry and fermat s principle for anisotropic media
+20 supersymmetry from a braided point of view
+08 fock space representation of differential calculus on the noncommutative quantum space
+71 small instantons del pezzo surfaces and type i theory 
+45 the renormalization group method applied to asymptotic analysis of vector fields 
+63 generating functional in cft and effective action for two dimensional quantum gravity on higher genus riemann surfaces
+87 ground state structure of a coupled 2 fermion system in supersymmetric quantum mechanics
+02 an explicit construction of wakimoto realizations of current algebras
+38 exact expectation values of local fields in quantum sine gordon model
+10 weight systems from feynman diagrams
+69 collapse versus turbulence
+59 demazure characters and affine fusion rules
+00 the multidimensional darboux transformation 
+31 multidimensional toda type systems 
+37 d branes black holes and su infty  gauge theory 
+20 multibracket simple lie algebras
+28 association of multiple zeta values with positive knots via feynman diagrams up to 9 loops
+86 the z 2 graded schouten nijenhuis bracket and generalized super poisson structures 
+65 complex structure and the construction of the  phi 4 4  quantum field theory in four dimensional space time 
+28 on knots in subdivergent diagrams
+17 on the algebras of bps states
+64 the su n 1 wzw models spinon decomposition and yangian structure
+26 meander determinants
+58 the connes lott program on the sphere
+51 solutions of the reflection equation for face and vertex models associated with a n  1  b n  1  c n  1  d n  1  and a n  2  
+15 the  phi 4 4  quantum field theory ii integrability of wick kernels 
+22 the algebraic and hamiltonian structure of the dispersionless benney and toda hierarchies
+26 solving n 2 sym by reflection symmetry of quantum vacua
+53 gravity coupled with matter and foundation of non commutative geometry
+44 poisson structures for dispersionless integrable systems and associated w algebras
+24 wzw fusion rings in the limit of infinite level
+63 mirror symmetry of calabi yau manifolds and flat coordinates
+82 self duality in d  8 dimensional euclidean gravity
+16 hyper kahler geometry and invariants of three manifolds
+07 dyonic sectors and intertwiner connections in 2 1 dimensional lattice z n higgs models
+75 quantum double actions on operator algebras and orbifold quantum field theories
+78 affine toda solitons and systems of calogero moser type
+31 on the composition of gauge structures
+04 modular invariance and structure of the exact wilsonian action of n 2 sym 
+09 soliton equations and the zero curvature condition in noncommutative geometry
+69 twisted n 2 supersymmetry with central charge and equivariant cohomology 
+09 r torsion and linking numbers from simplicial abelian gauge theories 
+31 hidden u q sl 2  otimes u q sl 2  quantum group symmetry in two dimensional gravity
+44 faces of relativistic toda chain
+13 higher order simple lie algebras 
+43 toward a q deformed standard model
+74 beyond the triangle and uniqueness relations non zeta counterterms at large n from positive knots
+23 quantum knizhnik zamolodchikov equation for u q  widehat sl n  and integral formula 
+33 the cauchy problem for classical field equations with ghost and fermion fields
+30 2 dimensional turbulence yet another conformal field theory solution
+92 quasi exactly solvable many body problems
+48 towards a quantum mechanical model for multispecies exclusion statistics
+32 the general solution of the real z 2  otimes n  graded contractions of so n 1  
+41 a statistical superfield and its observable consequences
+39 geometric engineering of quantum field theories
+36 fusion of twisted representations
+17 quantum deformation of lattice gauge theory
+28 on the enumeration of irreducible k fold euler sums and their roles in knot theory and field theory
+14 current algebraic structures over manifolds poisson algebras q deformations and quantization 
+29 weyl s character formula for su 3   a generating function approach
+30 symmetry integrable chain models and stochastic processes 
+82 conformal internal symmetry of 2d  sigma models coupled to gravity and a dilaton
+11 feynman diagrams as a weight system four loop test of a four term relation
+54 new higgs transitions between dual n 2 string models
+38 phi 4 kinks  gradient flow and dynamics
+94 locally anisotropic interactions i nonlinear connections in higher order anisotropic superspaces
+86 matter from geometry
+87 geometrical foundations of fractional supersymmetry
+16 deformation quantization and nambu mechanics
+19 w infinity field theories for the edge excitations in the quantum hall effect
+17 on some class of multidimensional nonlinear integrable systems
+05 quantum group representations and baxter equation
+96 the cauchy problem for abstract evolution equations with ghost and fermion degrees of freedom
+93 knots and particles 
+61 algebraic and geometric structure of the integrable models recently proposed by calogero
+94 su q 2  lattice gauge theory
+66 maxwell bloch equation and correlation function for penetrable bose gas 
+33 su q n gauge theory
+52 effective field theory for coherent optical pulse propagation
+22 stationary solitons of the fifth order kdv type equations and their stabilization
+34 superstrings in higher order extensions of finsler superspaces
+64 scattering of plane waves in self dual yang mills theory
+91 field interactions and strings in higher order anisotropic spaces
+28 chaos scaling and existence of a continuum limit in classical non abelian lattice gauge theory 
+56 complete determination of the singularity structure of zeta functions
+35 correlation functions for the z invariant ising model
+13 compact analytical form for non zeta terms in critical exponents at order 1 n 3
+90 geometric engineering of n 1 quantum field theories
+02 a quantum gauge group approach to the 2d su n wznw model
+32 supergeometry and quantum field theory or what is a classical configuration 
+74 multi point local height probabilities in the integrable rsos model 
+04 generalized fock spaces new forms of quantum statistics and their algebras 
+25 local brst cohomology and covariance
+96 locally anisotropic interactions iii higher order anisotropic supergravity
+96 elliptic genera of symmetric products and second quantized strings
+85 on quantum field theory with nonzero minimal uncertainties in positions and momenta
+84 geometries of orthogonal groups and their contractions a unified classical deformation viewpoint 
+48 the geodesic approximation for lump dynamics and coercivity of the hessian for harmonic maps 
+01 quantum order from string condensations and origin of light and massless fermions
+79 on deriving space time from quantum observables and states
+15 on hot bangs and the arrow of time in relativistic quantum field theory
+12 penrose limits of lie branes and a nappi witten braneworld
+43 the barnes zeta function sphere determinants and glaisher kinkelin bendersky constants 
+64 sle martingales and the virasoro algebra 
+55 gravity p branes and a spacetime counterpart of the higgs effect 
+62 nonlinear supersymmetry in quantum mechanics algebraic properties and differential representation
+63 unifying approaches in integrable systems quantum and statistical ultralocal and nonultralocal 
+20 n 2 boundary supersymmetry in integrable models and perturbed boundary conformal field theory
+14 classical and quantum strings in plane waves shock waves and spacetime singularities synthesis and new results 
+62 twisted alice loops as monopoles
+48 energy momentum conservation laws in higher dimensional chern simons models
+69 hitchin system on singular curves i
+81 lie algebras fuchsian differential equations and cft correlation functions 
+87 reflection transmission algebras 
+06 a holographic reduction of minkowski space time
+07 thermal behavior induced by vacuum polarization on causal horizons in comparison with the standard heat bath formalism
+52 multi lagrangians hereditary operators and lax pairs for the korteweg de vries positive and negative hierarchies 
+78 hamiltonian algebroids and deformations of complex structures on riemann curves
+75 thermodynamic bethe ansatz for boundary sine gordon model
+17 low level representations for e10 and e11
+61 a topological criterion for alice strings
+62 open wilson lines and group theory of noncommutative yang mills theory in two dimensions 
+20 noncommutative physics on lie algebras z 2 n lattices and clifford algebras 
+35 quantum mechanics in infinite symplectic volume
+58 superstrings with intrinsic torsion
+58 interaction between kink and radiation in  phi 4 model 
+39 functional approach to coherent states in non commutative theories
+77 new formulae for solutions of quantum knizhnik zamolodchikov equations on level 4 
+52 classical solutions for poisson sigma models on a riemann surface
+75 projective quantum mechanics
+97 so 2 1 conformal anomaly beyond contact interactions 
+94 z n graded topological generalizations of supersymmetry and orthofermion algebra
+63 jost solutions and quantum conserved quantities of an integrable derivative nonlinear schrodinger model
+35 softer hard scattering and noncommutative gauge string duality
+86 noncommutative probability matrix models and quantum orbifold spacetimes 
+59 gauge conservation laws in higher dimensional chern simons models
+56 multi loop feynman integrals and conformal quantum mechanics
+33 basic twist quantization of osp 1 2 and kappa deformation of d 1 superconformal mechanics 
+66 anomaly in conformal quantum mechanics from molecular physics to black holes
+99 riemann bilinear form and poisson structure in hitchin type systems
+57 fermionic characters for graded parafermions
+14 non minimal maxwell chern simons theory and the composite fermion model
+27 nonperturbative renormalization group approach to the ising model a derivative expansion at order  partial 4 
+61 mixed correlation functions of the two matrix model
+99 d branes b fields and ext groups 
+46 a covariant formalism for chern simons gravity
+49 on the relation between quantum liouville theory and the quantized teichm uller spaces 
+90 two point correlation functions of scaling fields in the dirac theory on the poincare disk
+02 pictures and equations of motion in lagrangian quantum field theory
+27 galois currents and the projective kernel in rational conformal field theory
+58 problems on foundations of general relativity
+60 the dilatation operator of conformal n 4 super yang mills theory 
+08 symmetries of the dirac operators associated with covariantly constant killing yano tensors
+68 arbitrary spin representations in de sitter from ds cft with applications to ds supergravity
+15 torus structure on graphs and twisted partition functions for minimal and affine models
+04 pauli equation and the method of supersymmetric factorization
+37 the spectrum of the dirac operator on coset spaces with homogeneous gauge fields
+36 the non commutative and discrete spatial structure of a 3d wigner quantum oscillator
+21 hecke operator and s duality of n 4 super yang mills for ade gauge group on k3
+18 coleman s theorem on physical assumptions for no goldstone bosons in two dimensions 
+40 manifestation of additional dimensions of space time in mesoscopic systems
+80 deformation quantization observable algebras states and representation theory 
+79 new generalized verma modules and multilinear intertwining differential operators 
+34 on conserved operator quantities in quantum field theory
+56 noncommutative solitons and d branes 
+45 breathers in the elliptic sine gordon model
+26 moduli spaces and d brane categories of tori using scft
+91 theta functions on noncommutative t 4
+00 oscillator realization of higher u m n spin algebras of w infinity type and quantized simplectic diffeomorphisms 
+18 affine kac moody algebras chl strings and the classification of tops 
+28 advances in string theory in curved backgrounds a synthesis report
+95 universal random matrix correlations of ratios of characteristic polynomials at the spectral edges
+46 classification of t hooft instantons over multi centered gravitational instantons
+62 massive feynman diagrams and inverse binomial sums 
+11 holography sl 2 r symmetry virasoro algebra and all that in rindler spacetime 
+87 schr  odinger invariance and space time symmetries 
+21 classical r matrices and the feigin odesskii algebra via hamiltonian and poisson reductions 
+03 two dimensional susy pseudo hermiticity without separation of variables

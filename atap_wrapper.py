@@ -22,7 +22,7 @@ from os import PathLike
 from atap_corpus import Corpus
 from atap_corpus.parts.dtm import DTM
 from atap_corpus.utils import download
-from topsbm.sbmtm import sbmtm
+import sbmtm
 
 from utils import embed_js
 import srsly
